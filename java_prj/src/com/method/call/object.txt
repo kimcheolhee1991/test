@@ -1,0 +1,1464 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ko" xml:lang="ko">
+ <head> 
+  <title>[스포츠 목록]</title> 
+  <meta http-equiv="content-type" content="text/html; charset=utf-8"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1"> 
+  <meta name="twitter:card" content="summary"> 
+  <meta name="twitter:card" content="summary_large_image"> 
+  <meta name="viewport" content="width=device-width"> 
+  <meta name="naver-site-verification" content="b103fc9d6193ce7c65a6ad5a9fd971b64f43c1b5"> 
+  <link href="../img/comm/favicon.ico" rel="shortcut icon" type="image/x-icon"> 
+  <link rel="apple-touch-icon" href="/img/comm/favicon2.ico"> 
+  <link rel="stylesheet" type="text/css" href="../css/comm_n.css?v=201709081324"> 
+  <link rel="stylesheet" type="text/css" href="../css/news.css?v=20140821"> 
+  <link rel="stylesheet" type="text/css" href="../css/etc_n.css?v=20170406"> 
+  <link rel="stylesheet" type="text/css" href="../css/ad.css?v=20150212"> 
+  <link rel="stylesheet" type="text/css" href="../css/photo_n.css?v=20150212">
+  <script type="text/javascript" src="../_js/ytn.js?v=20180413"></script> 
+  <script type="text/javascript" src="../_js/jquery-1.8.3.min.js"></script> 
+  <script type="text/javascript" src="../_js/jquery.lazyloadxt.min.js?v=201704143"></script> 
+  <noscript> &lt;h2&gt; &nbsp;&nbsp;&nbsp;&nbsp;이 사이트의 기능을 모두 활용하기 위해서는 자바스크립트를 활성화 시킬 필요가 있습니다.&lt;br&gt; &nbsp;&nbsp;&nbsp;&nbsp; &lt;a href="http://www.enable-javascript.com/ko/" target="_blank" style="color:red"&gt;브라우저에서 자바스크립트를 활성화하는 방법을 참고 하세요.  
+  </noscript> 
+  <script type="text/javascript">_L('9902','L','');</script> 
+  <!-- //YTN --> 
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-39886335-1', 'ytn.co.kr');
+  ga('send', 'pageview');
+
+</script> 
+  <!-- //YTN NEW--> 
+  <!--<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-39886335-3']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>--> 
+  <!-- Dable 스크립트 시작 / 문의 support@dable.io --> 
+  <script>
+(function(d,a,b,l,e,_) {
+d[b]=d[b]||function(){(d[b].q=d[b].q||[]).push(arguments)};e=a.createElement(l);
+e.async=1;e.charset='utf-8';e.src='//static.dable.io/dist/plugin.min.js';
+_=a.getElementsByTagName(l)[0];_.parentNode.insertBefore(e,_);
+})(window,document,'dable','script');
+dable('setService', 'ytn.co.kr');
+dable('sendLog');
+</script> 
+  <!-- Dable 스크립트 종료 / 문의 support@dable.io --> 
+  <style type="text/css">
+body {background:none;}
+/****************************헤더****************************/
+#clone  { display:block; z-index:999; position:fixed; width:100%; margin:0 auto; top: 0px;}
+#wrap {position: relative;} 
+#YTN_main_2017 .wrap {position: relative;overflow: hidden;min-width:990px;}
+#YTN_main_2017 .header {background:url('../img/main/top_bg.gif');background-repeat:repeat-x; background-size:1px 209px; height:209px;}
+#YTN_main_2017 .header_clone {}
+#YTN_main_2017 .total_bg { position:relative; height:210px;}
+#YTN_main_2017 .bg_clone { height:45px; background:#000;position:relative; }
+#YTN_main_2017 .gray_bg { height:37px; background:#DBDBDB;position:absolute; top:45px; width:100%}
+#YTN_main_2017 .total_bg .area_flex { position:relative;margin:0 auto;width:990px; height:100%;}
+#YTN_main_2017 .total_bg .area_flex .logo {position:relative; margin:0 auto; height:100%;}
+#YTN_main_2017 .total_bg .area_flex .logo h1 {position:absolute; top:50%; left:-2px; margin-top:-24px; background:url('../img/main/logo.png');background-repeat:no-repeat;width:201px;height:40px;}
+#YTN_main_2017 .logo .ytn_logo {display: block;overflow: hidden;width: 202px;height: 57px;background-position: 0 0;text-indent: 101%;white-space: nowrap;}
+#YTN_main_2017 .links {position: absolute; top:11px;left: -5px; zoom:1;}
+#YTN_main_2017 .links a {display:inline-block; margin:0 4px;letter-spacing:-1px;}
+#YTN_main_2017 .links .links_bar { background:url('../img/main/link_bar.gif')0 5px ;background-repeat:no-repeat; width:1px; height:13px; display:inline-block; }
+#YTN_main_2017 .links .barlast{ /*background:url('img/main/link_bar.gif')no-repeat 0 5px ; width:1px; height:13px; display:inline-block;*/ margin-right:125px}
+#YTN_main_2017 .links .familysite {border:1px solid #c7c7c7; display:inline-block; position: absolute;top:0;right:5px; width:115px}
+#YTN_main_2017 .ad_top {position:absolute; top:55px; right:0px;width:728px; height:90px; }
+
+/*네비게이션*/
+#YTN_main_2017 .main_navi {position:relative; margin:0 auto; width:990px; zoom: 1;margin-top: -52px; letter-spacing:-1px}
+#YTN_main_2017 .main_navi .menu01 {position:absolute; top:2px; left:5px}/*뉴스*/
+#YTN_main_2017 .main_navi .menu02 {position:absolute; top:2px; left:60px}/*영상콕*/
+#YTN_main_2017 .main_navi .menu03 {position:absolute; top:2px; left:130px}/*프로그램*/
+#YTN_main_2017 .main_navi .menu04 {position:absolute; top:2px; left:215px}/*연예스타일*/
+#YTN_main_2017 .main_navi .menu05 {position:absolute; top:2px; left:330px}/*스포츠*/
+#YTN_main_2017 .main_navi .menu06 {position:absolute; top:2px; left:405px}/*헬스라이프*/
+#YTN_main_2017 .main_navi .menu07 {position:absolute; top:2px; left:515px}/*레저*/
+#YTN_main_2017 .main_navi .menu08 {position:absolute; top:2px; left:575px}/*제보영상*/
+
+#YTN_main_2017 .main_navi .r_menu01 {position:absolute; top:2px; right:154px}/*라이브*/
+#YTN_main_2017 .main_navi .r_menu02 {position:absolute; top:2px; right:102px}/*편성표*/
+#YTN_main_2017 .main_navi .r_menu03 {position:absolute; top:2px; right:35px}/*다시보기*/
+#YTN_main_2017 .main_navi .r_menu04 {position:absolute; top:2px; right:0px}/*서치*/
+/*서치바*/
+#YTN_main_2017 .search {float:right;z-index:9999; position:absolute; right:30px; top:12px }
+#YTN_main_2017 .search .searchTerm {width:230px;height: 27px;padding-left: 10px;background: #fff;border: 0;font-size: 12px;line-height: 30px;color: #b5b5b5;}
+#YTN_main_2017 .search .searchBtn {width:36px;height:27px;margin-right: -1px;background: url('../img/main/icon_search_01.gif');background-repeat:no-repeat;
+								   border: 0;font-size: 0;line-height: 0;text-indent: -9999px;overflow: hidden;cursor: pointer; position: absolute;top:0px;right: -35px;}
+#YTN_main_2017 .search input {vertical-align: middle;}
+
+/*네비게이션 > 메인타이틀*/
+#YTN_main_2017 .main_navi .m_tit > a {font-size:15px; font-weight:bold; color:#fff; letter-spacing:-1.5px}
+#YTN_main_2017 .main_navi .m_tit_hover > a {font-size:15px; font-weight:bold; color:#67d2ff;} 
+#YTN_main_2017 .main_navi .left_menu .m_menu > li{float:left; padding-top:14px;padding-left: 4px;zoom:1;}
+#YTN_main_2017 .main_navi .right_menu .m_menu > li{float:right; padding-top:14px;padding-left: 4px;zoom:1;}
+#YTN_main_2017 .main_navi .r_menu01 a {display:inline-block; padding-top:2px}/*라이브 아이콘 이미지*/
+#YTN_main_2017 .main_navi .r_menu04 a {display:inline-block; padding-top:2px}/*써치 아이콘 이미지*/
+/*네비게이션 > 서브타이틀*/
+#YTN_main_2017 .main_navi .m_menu li > ul {background:#dbdbdb;width:100%; }
+#YTN_main_2017 .main_navi .m_menu li ul{width: 990px;position: absolute;top:49px;z-index: 99998;height:35px; margin-left:-9px }
+#YTN_main_2017 .main_navi .m_menu li ul li {float:left; z-index: 99999;display: inline-block; top: 5px;left: 10px;position:relative; margin-right:18px; }
+#YTN_main_2017 .main_navi .m_menu li ul li a {color:#222 !important; display:inline-block; font-size:14px;line-height:18px;background:#DBDBDB; font-weight:bold; }
+#YTN_main_2017 .main_navi .m_menu li ul li a:hover {padding-bottom:8px;  text-decoration:none;border-bottom:4px solid #1C9DE9; color:#0d5885 !important;background:#DBDBDB;}
+#YTN_main_2017 .main_navi .m_menu .sub_hover {padding-bottom:8px; border-bottom:4px solid #1C9DE9; text-decoration:none;border-bottom:4px solid #1C9DE9; color:#0d5885 !important;background:#DBDBDB;}
+
+/*메뉴 표시 아이콘*/
+#YTN_main_2017 .main_navi .m_menu .menu01_hover {background:url('../img/main/tip_ico.png') center bottom ;background-repeat:no-repeat;background-size:20px 10px; padding-bottom:16px;display:inline-block; }
+#YTN_main_2017 .main_navi .m_menu .menu02_hover {background:url('../img/main/tip_ico.png') center bottom ;background-repeat:no-repeat;background-size:20px 10px; padding-bottom:16px;display:inline-block; }
+#YTN_main_2017 .main_navi .m_menu .menu03_hover {background:url('../img/main/tip_ico.png') center bottom ;background-repeat:no-repeat;background-size:20px 10px; padding-bottom:16px;display:inline-block; }
+#YTN_main_2017 .main_navi .m_menu .menu04_hover {background:url('../img/main/tip_ico.png') center bottom ;background-repeat:no-repeat;background-size:20px 10px; padding-bottom:16px;display:inline-block; }
+#YTN_main_2017 .main_navi .m_menu .menu05_hover {background:url('../img/main/tip_ico.png') center bottom ;background-repeat:no-repeat;background-size:20px 10px; padding-bottom:16px;display:inline-block; }
+#YTN_main_2017 .main_navi .m_menu .menu06_hover {background:url('../img/main/tip_ico.png') center bottom ;background-repeat:no-repeat;background-size:20px 10px; padding-bottom:16px;display:inline-block; }
+#YTN_main_2017 .main_navi .m_menu .menu07_hover {background:url('../img/main/tip_ico.png') center bottom ;background-repeat:no-repeat;background-size:20px 10px; padding-bottom:16px;display:inline-block; }
+#YTN_main_2017 .main_navi .m_menu .menu08_hover {background:url('../img/main/tip_ico.png') center bottom ;background-repeat:no-repeat;background-size:20px 10px; padding-bottom:16px;display:inline-block; }
+/**서브GNB 배경 바 (width 100% 회색바)**/
+#YTN_main_2017 .w_bar {position: relative; width:100%; height:35px;margin-top:0;z-index: 999;background: #dbdbdb; margin-bottom:5px;}
+
+/******************************복제*******************************/
+/*로고*/
+#clone  { display:block; z-index:999; position:fixed; width:100%; margin:0 auto; top: 0px;}
+#clone .bg_clone .area_flex { position:relative;margin:0 auto;width:990px; height:100%;}
+#clone .bg_clone .area_flex .logo_clone {position:relative; margin:0 auto; height:45px; background:#000;}
+#clone .bg_clone .area_flex .logo_clone h1 {position:absolute; top:-7px;left:-2px; 
+													background:url('../img/main/small_logo.png');background-repeat:no-repeat;width:120px;height:26px;}
+#clone .bg_clone .area_flex .logo_clone h1 a {display:inline-block; width: 120px;height: 32px;}
+/*네비게이션*/
+#clone .header_clone .navi_clone {position:relative; margin:0 auto; width:990px; zoom: 1;letter-spacing:-1px; margin-top:-50px; }
+#clone .header_clone .navi_clone a {font-size:14px !important;}
+#clone .header_clone .navi_clone a:hover {text-decoration:none;} 
+#clone .header_clone .navi_clone .menu01 {position:absolute; top:2px; left:140px}/*뉴스*/
+#clone .header_clone .navi_clone .menu02 {position:absolute; top:2px; left:190px}/*영상콕*/
+#clone .header_clone .navi_clone .menu03 {position:absolute; top:2px; left:255px}/*프로그램*/
+#clone .header_clone .navi_clone .menu04 {position:absolute; top:2px; left:334px}/*연예스타일*/
+#clone .header_clone .navi_clone .menu05 {position:absolute; top:2px; left:438px}/*스포츠*/
+#clone .header_clone .navi_clone .menu06 {position:absolute; top:2px; left:505px}/*헬스라이프*/
+#clone .header_clone .navi_clone .menu07 {position:absolute; top:2px; left:600px}/*레저*/
+#clone .header_clone .navi_clone .menu08 {position:absolute; top:2px; left:650px}/*제보영상*/
+#clone .header_clone .navi_clone .r_menu01 {position:absolute; top:2px; right:154px}/*라이브*/
+#clone .header_clone .navi_clone .r_menu02 {position:absolute; top:2px; right:102px}/*편성표*/
+#clone .header_clone .navi_clone .r_menu03 {position:absolute; top:2px; right:35px}/*다시보기*/
+#clone .header_clone .navi_clone .r_menu04 {position:absolute; top:2px; right:0px}/*서치*/
+/*서치바*/
+#clone .header_clone .navi_clone .search {float:right;z-index:9999; position:absolute; right:30px; top:12px }
+#clone .header_clone .navi_clone .search .searchTerm {width:230px;height: 27px;padding-left: 10px;background: #fff;border: 0;font-size: 12px;line-height: 30px;color: #b5b5b5;}
+#clone .header_clone .navi_clone .search .searchBtn {width:36px;height:27px;margin-right: -1px;background: url('../img/main/icon_search_01.gif');background-repeat:no-repeat;
+								   border: 0;font-size: 0;line-height: 0;text-indent: -9999px;overflow: hidden;cursor: pointer; position: absolute;top:0px;right: -35px;}
+#clone .header_clone .navi_clone .search input {vertical-align: middle;}
+
+/*네비게이션 > 메인타이틀*/
+#clone .header_clone .navi_clone .m_tit > a {font-size:15px; font-weight:bold; color:#fff; letter-spacing:-1.5px}
+#clone .header_clone .navi_clone .m_tit_hover > a {font-size:15px; font-weight:bold; color:#67d2ff;} 
+#clone .header_clone .navi_clone .left_menu .m_menu > li{float:left; padding-top:14px;padding-left: 4px;zoom:1;}
+#clone .header_clone .navi_clone .right_menu .m_menu > li{float:right; padding-top:14px;padding-left: 4px;zoom:1;}
+#clone .header_clone .navi_clone .r_menu01 a {display:inline-block; padding-top:2px}/*라이브 아이콘 이미지*/
+#clone .header_clone .navi_clone .r_menu04 a {display:inline-block; padding-top:2px}/*써치 아이콘 이미지*/
+/*네비게이션 > 서브타이틀*/
+#clone .header_clone .navi_clone .m_menu li > ul {background:#dbdbdb;width:100%; }
+#clone .header_clone .navi_clone .m_menu li ul{width: 990px;position: absolute;top: 48px;z-index: 99998;height:37px; margin-left:-9px }
+#clone .header_clone .navi_clone .m_menu li ul li {float:left; z-index: 99999;display: inline-block; position: absolute;top: 5px;left: 10px;position:relative; margin-right:18px; }
+#clone .header_clone .navi_clone .m_menu li ul li a {color:#222 !important; display:inline-block; font-size:14px;display:inline-block;	 background:#DBDBDB; font-weight:bold;  }
+#clone .header_clone .navi_clone .m_menu li ul li a:hover {padding-bottom:9px; border-bottom:4px solid #1C9DE9; text-decoration:none;border-bottom:4px solid #1C9DE9; color:#0d5885 !important;background:#DBDBDB;}
+
+/*메뉴 표시 아이콘*/
+#clone .header_clone .navi_clone .m_menu .menu01_hover {background:url('../img/main/tip_ico.png') center bottom ;background-repeat:no-repeat;background-size:20px 10px; padding-bottom:16px;display:inline-block; }
+#clone .header_clone .navi_clone .m_menu .menu02_hover {background:url('../img/main/tip_ico.png') center bottom ;background-repeat:no-repeat;background-size:20px 10px; padding-bottom:16px;display:inline-block; }
+#clone .header_clone .navi_clone .m_menu .menu03_hover {background:url('../img/main/tip_ico.png') center bottom ;background-repeat:no-repeat;background-size:20px 10px; padding-bottom:16px;display:inline-block; }
+#clone .header_clone .navi_clone .m_menu .menu04_hover {background:url('../img/main/tip_ico.png') center bottom ;background-repeat:no-repeat;background-size:20px 10px; padding-bottom:16px;display:inline-block; }
+#clone .header_clone .navi_clone .m_menu .menu05_hover {background:url('../img/main/tip_ico.png') center bottom ;background-repeat:no-repeat;background-size:20px 10px; padding-bottom:16px;display:inline-block; }
+#clone .header_clone .navi_clone .m_menu .menu06_hover {background:url('../img/main/tip_ico.png') center bottom ;background-repeat:no-repeat;background-size:20px 10px; padding-bottom:16px;display:inline-block; }
+#clone .navi_clone .m_menu .menu07 > a:hover {background:url('../img/main/tip_ico.png') center bottom ;background-repeat:no-repeat;background-size:20px 10px; padding-bottom:16px;display:inline-block; }
+#clone .header_clone .navi_clone .m_menu .menu08 > a:hover {background:url('../img/main/tip_ico.png') center bottom ;background-repeat:no-repeat;background-size:20px 10px; padding-bottom:16px;display:inline-block; }
+/**서브GNB 배경 바 (width 100% 회색바)**/
+#clone .w_bar {position: relative; width:100%; height:38px;margin-top:15px;z-index: 999;background: #dbdbdb; margin-bottom:5px}
+</style> 
+ </head> 
+ <body> 
+  <div id="YTN_main_2017" class="wrap"> 
+   <div class="header"> 
+    <div class="total_bg"> 
+     <div class="area_flex"> 
+      <div class="logo YTN_CSA_logo"> 
+       <h1><a href="http://www.ytn.co.kr"><span class="ytn_logo">YTN 로고</span></a></h1> 
+      </div>
+      <!-- //logo --> 
+      <div class="YTN_CSA_login links"> 
+       <a href="https://secure.ytn.co.kr/member2/login.php?r_url=" id="loginChk1">로그인</a> 
+       <span class="links_bar"></span> 
+       <a href="https://secure.ytn.co.kr/member2/join.php?r_url=" id="loginChk2">회원가입</a> 
+       <span class="links_bar"></span> 
+       <a href="http://tour.ytn.co.kr/#infor" target="_blank">견학신청</a> 
+       <span class="links_bar"></span> 
+       <a href="http://www.ytn.co.kr/new_media/index.html" target="_blank"><b style="color:#1C9DE9">뉴미디어 리터러시</b></a> 
+       <span class="barlast"></span> 
+       <form action="" method="" class="clearfix" style="dispaly:inline"> 
+        <select class="select familysite" name="exp2" onchange="window.open(this.value)"> <option value="">Family site</option> <option value="http://science.ytn.co.kr/">YTN 사이언스</option> <option value="http://radio.ytn.co.kr">YTN 라디오</option> <option value="http://life.ytn.co.kr">YTN 라이프</option> <option value="http://dmb.ytn.co.kr">YTN DMB</option> <option value="http://ytn.co.kr/ytnkorean">YTN 월드ㆍ코리안</option> <option value="http://www.ytnplus.co.kr">YTN PLUS</option> <option value=" http://www.seoultower.co.kr">남산서울타워</option> </select> 
+       </form> 
+      </div>
+      <!-- //links --> 
+      <script type="text/javascript">
+				//<![CDATA[
+				if(get_cookie("L_ENC")){
+					$("#loginChk1").text("로그아웃");
+					$("#loginChk2").text("회원정보변경");
+					$("#loginChk1").attr("href", "https://secure.ytn.co.kr/member2/logout_exe.php?r_url=");
+					$("#loginChk2").attr("href", "https://secure.ytn.co.kr/member2/member_edit.php?r_url=");
+				}
+				//]]>
+				</script> 
+      <div class="ad_top"> 
+       <iframe name="AdtopBanner" frameborder="0" scrolling="no" style="width:728px;height:100%;border:none;border-bottom:1px solid #e1e1e1;" title="상단배너" src="/inc_banner/AdServerChange.php?n=3"></iframe> 
+      </div> 
+     </div>
+     <!-- //area_flex --> 
+    </div>
+    <!-- //total_bg --> 
+    <!-- 네비게이션 --> 
+    <div class="main_navi navi_clone"> 
+     <div class="left_menu"> 
+      <ul class="m_menu"> 
+       <li class="menu01 m_tit YTN_CSA_nav2_2"><a href="http://www.ytn.co.kr/" onmouseover="gnbSubMenu('sub_1');">뉴스</a> 
+        <ul class="sub_gnb_box" id="sub_1" style="display:none"> 
+         <li class="sub01 YTN_CSA_nav3_1"><a id="n0111" href="http://www.ytn.co.kr/news/news_quick.html">속보</a></li> 
+         <li class="sub02 YTN_CSA_nav3_2"><a id="n0101" href="http://www.ytn.co.kr/news/news_list_0101.html">정치</a></li> 
+         <li class="sub03 YTN_CSA_nav3_3"><a id="n0102" href="http://www.ytn.co.kr/news/news_list_0102.html">경제</a></li> 
+         <li class="sub04 YTN_CSA_nav3_4"><a id="n0103" href="http://www.ytn.co.kr/news/news_list_0103.html">사회</a></li> 
+         <li class="sub05 YTN_CSA_nav3_11"><a id="n0115" href="http://www.ytn.co.kr/news/news_list_0115.html">전국</a></li> 
+         <li class="sub06 YTN_CSA_nav3_12"><a id="n0106" href="http://www.ytn.co.kr/news/news_list_0106.html">문화</a></li> 
+         <li class="sub07 YTN_CSA_nav3_5"><a id="n0105" href="http://www.ytn.co.kr/news/news_list_0105.html">과학</a></li> 
+         <li class="sub08 YTN_CSA_nav3_7"><a id="n0104" href="http://www.ytn.co.kr/news/news_list_0104.html">국제</a></li> 
+         <li class="sub09 YTN_CSA_nav3_8"><a id="nweather" href="http://www.ytn.co.kr/weather/area_weather.php">날씨</a></li> 
+         <li class="sub10 YTN_CSA_nav3_15"><a id="nhancut" href="http://www.ytn.co.kr/news/news_list_hancut.html">한컷뉴스</a></li> 
+         <li class="sub11"><a id="nrColumn" href="http://www.ytn.co.kr/news/news_list.php?s_mcd=rColumn">기자칼럼</a></li> 
+         <li class="sub12"><a id="ndJournalism" href="http://www.ytn.co.kr/video/video_list_dJournalism.html">데이터저널리즘</a></li> 
+        </ul> </li> 
+       <li class="menu02 m_tit YTN_CSA_nav2_3"><a href="http://www.ytn.co.kr/video/video_main.html" onmouseover="gnbSubMenu('sub_2');">영상콕</a> 
+        <ul class="sub_gnb_box" id="sub_2" style="display:none"> 
+         <li><a id="nFVideo" href="http://www.ytn.co.kr/video/video_list_FVideo.html">지구촌 생생영상</a></li> 
+         <li><a id="ngoodNews" href="http://www.ytn.co.kr/video/video_list_goodNews.html">좋은뉴스</a></li> 
+         <li><a id="nS0003" href="http://www.ytn.co.kr/video/video_list.php?s_mcd=S0003">팔팔영상</a></li> 
+         <li><a id="nTrack" href="http://www.ytn.co.kr/video/video_list.php?s_mcd=Caption">자막뉴스</a></li> 
+         <li><a id="nnFact" href="http://www.ytn.co.kr/video/video_list.php?s_mcd=nFact">취재N팩트</a></li> 
+         <li><a id="nInstant" href="http://www.ytn.co.kr/video/video_list.php?s_mcd=Instant">인스턴트 비디오</a></li> 
+        </ul> </li> 
+       <li class="menu03 m_tit YTN_CSA_nav2_10"><a href="http://www.ytn.co.kr/program/program_main.html" onmouseover="gnbSubMenu('sub_3');">프로그램</a> 
+        <ul class="sub_gnb_box" id="sub_3" style="display:none"> 
+         <li><a href="http://www.ytn.co.kr/program/program_intro.php?s_mcd=0481" target="_top" class="navinews1">국민신문고</a></li> 
+         <li><a href="http://www.ytn.co.kr/program/program_list_0301.html" target="_top" class="navinews1">현장생중계</a></li> 
+         <li><a href="http://www.ytn.co.kr/news/news_night_list.php" target="_top" class="navinews1">뉴스나이트</a></li> 
+         <li><a href="http://www.ytn.co.kr/program/program_list_0465.html" target="_top" class="navinews1">YTN 스페셜</a></li> 
+         <li><a href="http://www.ytn.co.kr/program/program_list.php?s_mcd=0496" target="_top" class="navinews1">시사 안드로메다</a></li> 
+         <li><a href="http://www.ytn.co.kr/global_korean/global_main.html" target="_top" class="navinews1">글로벌코리안</a></li> 
+         <li><a href="http://www.ytn.co.kr/program/program_list.php?s_mcd=0492" target="_top" class="navinews1">구석구석 코리아</a></li> 
+         <li><a href="http://www.ytn.co.kr/program/program_list_0948.html" target="_top" class="navinews1">뉴스인</a></li> 
+        </ul> </li> 
+       <li class="menu04 m_tit YTN_CSA_nav2_11"><a href="http://www.ytn.co.kr/photo/photo_main.html" onmouseover="gnbSubMenu('sub_4');">연예ㆍ스타일</a> 
+        <ul class="sub_gnb_box" id="sub_4" style="display:none"> 
+         <li><a id="photo_1406" href="http://www.ytn.co.kr/photo/photo_list_1406.html">방송</a></li> 
+         <li><a id="photo_1408" href="http://www.ytn.co.kr/photo/photo_list_1408.html">음악</a></li> 
+         <li><a id="photo_1407" href="http://www.ytn.co.kr/photo/photo_list_1407.html">영화</a></li> 
+         <li><a id="photo_0122" href="http://www.ytn.co.kr/photo/photo_list_0122.html">패션&amp;뷰티</a></li> 
+         <li><a id="photo_photo_gallery" href="http://www.ytn.co.kr/photo/photo_list_gallery.html">포토</a></li> 
+         <li><a id="photo_0109" href="http://www.ytn.co.kr/news/news_list_0109.html">SNS세상</a></li> 
+         <li><a href="http://respect.ytn.co.kr" target="_blank">리스펙트 프로젝트</a></li> 
+        </ul> </li> 
+       <li class="menu05 m_tit YTN_CSA_nav2_12"><a href="http://www.ytn.co.kr/photo/sports_main.html" onmouseover="gnbSubMenu('sub_5');">스포츠</a> 
+        <ul class="sub_gnb_box" id="sub_5" style="display:none"> 
+         <li><a id="photo_9901" href="http://www.ytn.co.kr/photo/sports_list_9901.html">야구</a></li> 
+         <li><a id="photo_9902" href="http://www.ytn.co.kr/photo/sports_list_9902.html">축구</a></li> 
+         <li><a id="photo_9903" href="http://www.ytn.co.kr/photo/sports_list_9903.html">골프</a></li> 
+         <li><a id="photo_9904" href="http://www.ytn.co.kr/photo/sports_list_9904.html">농구&amp;배구</a></li> 
+         <li><a id="photo_9905" href="http://www.ytn.co.kr/photo/sports_list_9905.html">스포츠종합</a></li> 
+         <li><a href="http://spoon.ytn.co.kr/" target="_blank"><img src="http://www.ytn.co.kr/img/comm/spoon_logo_r1.png" alt="스푼피드로고" width="90px" height="16px" style="display:inline-block;    padding-top: 3px; "></a></li> 
+        </ul> </li> 
+       <li class="menu06 m_tit YTN_CSA_nav2_14"><a href="http://www.ytn.co.kr/health_life/health_main.html" onmouseover="gnbSubMenu('sub_6');">헬스+라이프</a> 
+        <ul class="sub_gnb_box" id="sub_6" style="display:none"> 
+         <li><a id="n011801" href="http://www.ytn.co.kr/health_life/health_life_list_011801.html">health+life</a></li> 
+         <li><a id="n011901" href="http://www.ytn.co.kr/health_life/health_life_list_011901.html">건강</a></li> 
+         <li><a id="n0127" href="http://www.ytn.co.kr/health_life/health_life_list_0127.html">리더스 인터뷰</a></li> 
+         <li><a id="n0123" href="http://www.ytn.co.kr/health_life/health_life_list_0123.html">인물</a></li> 
+         <li><a id="n0124" href="http://www.ytn.co.kr/health_life/health_life_list_0124.html">칼럼</a></li> 
+         <li><a id="n0125" href="http://www.ytn.co.kr/health_life/health_life_list_0125.html">정보광장</a></li> 
+        </ul> </li> 
+       <li class="menu07 m_tit YTN_CSA_nav2_15"><a href="http://www.ytn.co.kr/health_life/leisure_main.html" onmouseover="gnbSubMenu('sub_7');">레저</a> 
+        <ul class="sub_gnb_box" id="sub_7" style="display:none"> 
+         <li><a id="n012001" href="http://www.ytn.co.kr/health_life/health_life_list_012001.html">낚시</a></li> 
+         <li><a id="n0126" href="http://www.ytn.co.kr/health_life/health_life_list_0126.html">여행</a></li> 
+         <li><a id="n0128" href="http://www.ytn.co.kr/health_life/health_life_list_0128.html">건축&amp;디자인</a></li> 
+         <li><a id="n0121" href="http://www.ytn.co.kr/health_life/fortune_list.html">운세</a></li> 
+        </ul> </li> 
+       <li class="menu08 m_tit YTN_CSA_nav2_9"><a href="http://mj.ytn.co.kr/" onmouseover="gnbSubMenu('sub_8');">제보영상</a> 
+        <ul class="sub_gnb_box" id="sub_8" style="display:none"> 
+         <li><a href="http://mj.ytn.co.kr/mj/mj_write_main.php">제보하기</a></li> 
+         <li><a href="http://mj.ytn.co.kr/mj/mj_list.php?mode=popular">제보랭킹</a></li> 
+         <li><a href="http://mj.ytn.co.kr/mj/mj_list.php?mode=theme">최신제보</a></li> 
+         <li><a href="http://www.ytn.co.kr/video/video_list_jebo.html">제보영상</a></li> 
+        </ul> </li> 
+      </ul> 
+     </div>
+     <!-- //left_menu --> 
+     <div class="clearfix"></div> 
+     <div class="right_menu"> 
+      <ul class="m_menu"> 
+       <li class="r_menu01 YTN_CSA_nav2_1"><a href="http://www.ytn.co.kr/_hd/hd_live.html"><img src="../img/main/icon_live.gif" alt="라이브"></a></li> 
+       <li class="r_menu02 m_tit YTN_CSA_nav2_13"><a href="http://www.ytn.co.kr/service/schedule.php">편성표</a></li> 
+       <li class="r_menu03 m_tit YTN_CSA_nav2_16"><a href="http://www.ytn.co.kr/program/replay_main.php">다시보기</a></li> 
+       <li class="r_menu04 YTN_CSA_nav2_17"><a href="#" onclick="$('.search').show();return false;"><img src="../img/main/icon_search.gif" alt="서치"></a> 
+        <!-- 돋보기 클릭 시, 나타나는 검색 바 --> 
+        <div class="search" id="search" style="display:none"> 
+         <form name="web_search" target="_top" action="http://www.ytn.co.kr/search/?" method="get" onsubmit="return search(this)"> 
+          <fieldset> 
+           <legend>통합검색</legend> 
+           <span class="InputOutline"> <input name="q" id="q" type="text" placeholder="검색어를 입력하세요." class="searchTerm" title="검색어 입력" style="position:relative"> <img src="../img/main/close_btn.jpg" alt="닫기버튼" style="display:inline-block; position:absolute; right:5px; top:4px" onclick="$('.search').hide();"></span> 
+           <input type="submit" alt="검색" title="검색" class="searchBtn" value="검색"> 
+          </fieldset> 
+         </form> 
+        </div>
+        <!-- //검색바 여기까지 --> </li> 
+      </ul> 
+     </div>
+     <!-- //right_menu --> 
+    </div>
+    <!-- //main_navi --> 
+   </div>
+   <!-- //header --> 
+   <div class="w_bar"></div> 
+   <!-- //서브 GNB 배경라인 (회색바) --> 
+   <!----> 
+   <!--한줄 GNB------------------------------------------------------> 
+   <!----> 
+   <div id="clone" class="clone01" style="display:none"> 
+    <div class="header_clone"> 
+     <div class="bg_clone"> 
+      <span id="sub_bar" class="gray_bg" style="display:none"></span>
+      <!-- 서브 gnb배경 (회색) --> 
+      <div class="area_flex"> 
+       <div class="logo_clone YTN_CSA_logo"> 
+        <h1><a href="http://www.ytn.co.kr"><span class="ytn_logo"></span></a></h1> 
+       </div>
+       <!-- //logo --> 
+      </div>
+      <!-- //area_flex --> 
+     </div>
+     <!-- //total_bg --> 
+     <!-- 네비게이션 --> 
+     <div class="navi_clone"> 
+      <div class="left_menu"> 
+       <ul class="m_menu"> 
+        <li class="menu01 m_tit YTN_CSA_nav2_2"><a href="http://www.ytn.co.kr/" onmouseover="gnbSubMenu('sub2_1');">뉴스</a> 
+         <ul class="sub_gnb_box" style="display:none" id="sub2_1"> 
+          <li class="sub01 YTN_CSA_nav3_1"><a href="http://www.ytn.co.kr/news/news_quick.html">속보</a></li> 
+          <li class="sub02 YTN_CSA_nav3_2"><a href="http://www.ytn.co.kr/news/news_list_0101.html">정치</a></li> 
+          <li class="sub03 YTN_CSA_nav3_3"><a href="http://www.ytn.co.kr/news/news_list_0102.html">경제</a></li> 
+          <li class="sub04 YTN_CSA_nav3_4"><a href="http://www.ytn.co.kr/news/news_list_0103.html">사회</a></li> 
+          <li class="sub05 YTN_CSA_nav3_11"><a href="http://www.ytn.co.kr/news/news_list_0115.html">전국</a></li> 
+          <li class="sub06 YTN_CSA_nav3_12"><a href="http://www.ytn.co.kr/news/news_list_0106.html">문화</a></li> 
+          <li class="sub07 YTN_CSA_nav3_5"><a href="http://www.ytn.co.kr/news/news_list_0105.html">과학</a></li> 
+          <li class="sub08 YTN_CSA_nav3_7"><a href="http://www.ytn.co.kr/news/news_list_0104.html">국제</a></li> 
+          <li class="sub09 YTN_CSA_nav3_8"><a href="http://www.ytn.co.kr/weather/area_weather.php">날씨</a></li> 
+          <li class="sub10 YTN_CSA_nav3_15"><a href="http://www.ytn.co.kr/news/news_list_hancut.html">한컷뉴스</a></li> 
+          <li class="sub11"><a href="http://www.ytn.co.kr/news/news_list.php?s_mcd=rColumn">기자칼럼</a></li> 
+          <li class="sub12"><a href="http://www.ytn.co.kr/video/video_list_dJournalism.html">데이터저널리즘</a></li> 
+         </ul> </li> 
+        <li class="menu02 m_tit YTN_CSA_nav2_3"><a href="http://www.ytn.co.kr/video/video_main.html" onmouseover="gnbSubMenu('sub2_2');">영상콕</a> 
+         <ul class="sub_gnb_box" style="display:none" id="sub2_2"> 
+          <li><a href="http://www.ytn.co.kr/video/video_list_FVideo.html">지구촌 생생영상</a></li> 
+          <li><a href="http://www.ytn.co.kr/video/video_list_goodNews.html">좋은뉴스</a></li> 
+          <li><a href="http://www.ytn.co.kr/video/video_list.php?s_mcd=S0003">팔팔영상</a></li> 
+          <li><a href="http://www.ytn.co.kr/video/video_list.php?s_mcd=Caption">자막뉴스</a></li> 
+          <li><a href="http://www.ytn.co.kr/video/video_list.php?s_mcd=nFact">취재N팩트</a></li> 
+          <li><a href="#">인스턴트 비디오</a></li> 
+         </ul> </li> 
+        <li class="menu03 m_tit YTN_CSA_nav2_10"><a href="http://www.ytn.co.kr/program/program_main.html" onmouseover="gnbSubMenu('sub2_3');">프로그램</a> 
+         <ul class="sub_gnb_box" style="display:none" id="sub2_3"> 
+          <li><a href="http://www.ytn.co.kr/program/program_intro.php?s_mcd=0481" target="_top" class="navinews1">국민신문고</a></li> 
+          <li><a href="http://www.ytn.co.kr/program/program_list_0301.html" target="_top" class="navinews1">현장생중계</a></li> 
+          <li><a href="http://www.ytn.co.kr/news/news_night_list.php" target="_top" class="navinews1">뉴스나이트</a></li> 
+          <li><a href="http://www.ytn.co.kr/program/program_list_0465.html" target="_top" class="navinews1">YTN 스페셜</a></li> 
+          <li><a href="http://www.ytn.co.kr/program/program_list.php?s_mcd=0496" target="_top" class="navinews1">시사 안드로메다</a></li> 
+          <li><a href="http://www.ytn.co.kr/global_korean/global_main.html" target="_top" class="navinews1">글로벌코리안</a></li> 
+          <li><a href="http://www.ytn.co.kr/program/program_list.php?s_mcd=0492" target="_top" class="navinews1">구석구석 코리아</a></li> 
+          <li><a href="http://www.ytn.co.kr/program/program_list_0948.html" target="_top" class="navinews1">뉴스인</a></li> 
+         </ul> </li> 
+        <li class="menu04 m_tit YTN_CSA_nav2_11"><a href="http://www.ytn.co.kr/photo/photo_main.html" onmouseover="gnbSubMenu('sub2_4');">연예ㆍ스타일</a> 
+         <ul class="sub_gnb_box" style="display:none" id="sub2_4"> 
+          <li><a href="http://www.ytn.co.kr/photo/photo_list_1406.html">방송</a></li> 
+          <li><a href="http://www.ytn.co.kr/photo/photo_list_1408.html">음악</a></li> 
+          <li><a href="http://www.ytn.co.kr/photo/photo_list_1407.html">영화</a></li> 
+          <li><a href="http://www.ytn.co.kr/photo/photo_list_0122.html">패션&amp;뷰티</a></li> 
+          <li><a href="http://www.ytn.co.kr/photo/photo_list_gallery.html">포토</a></li> 
+          <li><a href="http://www.ytn.co.kr/news/news_list_0109.html">SNS세상</a></li> 
+         </ul> </li> 
+        <li class="menu05 m_tit YTN_CSA_nav2_12" onmouseover="gnbSubMenu('sub2_5');"><a href="http://www.ytn.co.kr/photo/sports_main.html">스포츠</a> 
+         <ul class="sub_gnb_box" style="display:none" id="sub2_5"> 
+          <li><a href="http://www.ytn.co.kr/photo/sports_list_9901.html">야구</a></li> 
+          <li><a href="http://www.ytn.co.kr/photo/sports_list_9902.html">축구</a></li> 
+          <li><a href="http://www.ytn.co.kr/photo/sports_list_9903.html">골프</a></li> 
+          <li><a href="http://www.ytn.co.kr/photo/sports_list_9904.html">농구&amp;배구</a></li> 
+          <li><a href="http://www.ytn.co.kr/photo/sports_list_9905.html">스포츠종합</a></li> 
+          <li><span class="blind"><a href="http://spoon.ytn.co.kr/" target="_blank"><img src="http://www.ytn.co.kr/img/comm/spoon_logo_r1.png" alt="스푼피드로고" width="90px" height="16px" style="display:inline-block;    padding-top: 3px; "></a></span></li> 
+         </ul> </li> 
+        <li class="menu06 m_tit YTN_CSA_nav2_14"><a href="http://www.ytn.co.kr/health_life/health_main.html" onmouseover="gnbSubMenu('sub2_6');">헬스+라이프</a> 
+         <ul class="sub_gnb_box" style="display:none" id="sub2_6"> 
+          <li><a href="http://www.ytn.co.kr/health_life/health_life_list_011801.html">health+life</a></li> 
+          <li><a href="http://www.ytn.co.kr/health_life/health_life_list_011901.html">건강</a></li> 
+          <li><a href="http://www.ytn.co.kr/health_life/health_life_list_0127.html">리더스 인터뷰</a></li> 
+          <li><a href="http://www.ytn.co.kr/health_life/health_life_list_0123.html">인물</a></li> 
+          <li><a href="http://www.ytn.co.kr/health_life/health_life_list_0124.html">칼럼</a></li> 
+          <li><a href="http://www.ytn.co.kr/health_life/health_life_list_0125.html">정보광장</a></li> 
+         </ul> </li> 
+        <li class="menu07 m_tit YTN_CSA_nav2_15"><a href="http://www.ytn.co.kr/health_life/leisure_main.html" onmouseover="gnbSubMenu('sub2_7');">레저</a> 
+         <ul class="sub_gnb_box" style="display:none" id="sub2_7"> 
+          <li><a href="http://www.ytn.co.kr/health_life/health_life_list_012001.html">낚시</a></li> 
+          <li><a href="http://www.ytn.co.kr/health_life/health_life_list_0126.html">여행</a></li> 
+          <li><a href="http://www.ytn.co.kr/health_life/health_life_list_0128.html">건축&amp;디자인</a></li> 
+          <li><a href="http://www.ytn.co.kr/health_life/fortune_list.html">운세</a></li> 
+         </ul> </li> 
+        <li class="menu08 m_tit YTN_CSA_nav2_9"><a href="http://mj.ytn.co.kr/" onmouseover="gnbSubMenu('sub2_8');">제보영상</a> 
+         <ul class="sub_gnb_box" style="display:none" id="sub2_8"> 
+          <li><a href="http://mj.ytn.co.kr/mj/mj_write_main.php">제보하기</a></li> 
+          <li><a href="http://mj.ytn.co.kr/mj/mj_list.php?mode=popular">제보랭킹</a></li> 
+          <li><a href="http://mj.ytn.co.kr/mj/mj_list.php?mode=theme">최신제보</a></li> 
+          <li><a href="http://www.ytn.co.kr/video/video_list_jebo.html">제보영상</a></li> 
+         </ul> </li> 
+       </ul> 
+      </div>
+      <!-- //left_menu --> 
+      <div class="clearfix"></div> 
+      <div class="right_menu"> 
+       <ul class="m_menu"> 
+        <li class="r_menu01 YTN_CSA_nav2_1"><a href="http://www.ytn.co.kr/_hd/hd_live.html"><img src="../img/main/icon_live.gif" alt="라이브"></a></li> 
+        <li class="r_menu02 m_tit YTN_CSA_nav2_13"><a href="http://www.ytn.co.kr/service/schedule.php">편성표</a></li> 
+        <li class="r_menu03 m_tit YTN_CSA_nav2_16"><a href="http://www.ytn.co.kr/program/replay_main.php">다시보기</a></li> 
+        <li class="r_menu04"><a href="#" onclick="$('#search2').show();return false;"><img src="../img/main/icon_search.gif" alt="서치"></a> 
+         <!-- 돋보기 클릭 시, 나타나는 검색 바 --> 
+         <div class="search" id="search2" style="display:none"> 
+          <form name="web_search" target="_top" action="http://www.ytn.co.kr/search/?" method="post" onsubmit="return search(this)"> 
+           <fieldset> 
+            <legend>통합검색</legend> 
+            <span class="InputOutline"> <input name="q" id="q" type="text" placeholder="검색어를 입력하세요." class="searchTerm" title="검색어 입력" style="position:relative"> <img src="../img/main/close_btn.jpg" alt="닫기버튼" style="display:inline-block; position:absolute; right:5px; top:4px" onclick="$('.search').hide();"></span> 
+            <input type="submit" alt="검색" title="검색" class="searchBtn" value="검색"> 
+           </fieldset> 
+          </form> 
+         </div>
+         <!-- //검색바 여기까지 --> </li> 
+       </ul> 
+      </div>
+      <!-- //right_menu --> 
+     </div>
+     <!-- //navi_clone --> 
+    </div>
+    <!-- //header --> 
+    <script>				
+	var mouseStatus = false;
+	var gnbMode = 0;
+	
+	for(i=1;i<9;i++){ 
+		//$('#sub_'+i).mouseout(function () {mouseStatus=false;});
+		//$('#sub_'+i).mouseover(function () {mouseStatus=true;});
+		$('#sub2_'+i).mouseout(function () {mouseStatus=false;});
+		$('#sub2_'+i).mouseover(function () {mouseStatus=true;});
+	}
+	
+	gnbSubMenu=function(id){  
+		$(".sub_gnb_box").removeClass('fadeIn animated_3').hide();
+		$('.m_tit').removeClass( 'm_tit_hover menu01_hover' );
+		if(gnbMode) $("#sub_bar").hide();
+
+		if(id){
+			mouseStatus = true;
+			if(gnbMode) $("#sub_bar").show();
+			$('#'+id).show().addClass('fadeIn animated_3');
+			$('.menu0'+id.substr(-1)).addClass( 'm_tit_hover menu01_hover' );
+		}
+	}
+	doPlay=function(){ if(!mouseStatus && gnbMode) gnbSubMenu(''); }
+
+	// GNB 메뉴 재처리
+	function chkSubMenu()
+	{
+		$("#sub_bar").hide();
+
+		var mcd = "9902";
+		var hcd = "";
+		var url = "/photo/sports_list.php?s_mcd=9902";
+		var HealthLife = ["0118","011801","0119","011901","1411","0123","0124","0125","0127"];
+		var Leisure = ["012001","0120","0126","0128","0121","012202"];
+
+		if(mcd == "0111" || mcd == "0101" || mcd == "0102" || mcd == "0103" || mcd == "0115" ||  mcd == "0104" ||  mcd == "0105" || mcd == "0106" || mcd == "hancut" || mcd == "rColumn" || mcd == "dJournalism"){
+			gnbSubMenu('sub_1'); $('#n'+mcd).addClass('sub_hover');
+		}
+		else if(url.indexOf("video") != -1){
+			gnbSubMenu('sub_2'); $('#n'+mcd).addClass('sub_hover');
+		}
+		else if(url.indexOf("health_main") != -1 || $.inArray(mcd, HealthLife) != -1){
+			gnbSubMenu('sub_6'); $('#n'+mcd).addClass('sub_hover');
+		}
+		else if(url.indexOf("leisure_main") != -1 || $.inArray(mcd, Leisure) != -1){
+			gnbSubMenu('sub_7'); $('#n'+mcd).addClass('sub_hover');
+		}
+		else if(url.indexOf("weather") != -1){
+			gnbSubMenu('sub_1'); $('#nweather').addClass('sub_hover');
+		}
+		else if(url.indexOf("program") != -1 || url.indexOf("_pn") != -1 || url.indexOf("global_korean") != -1 || mcd == "anchorReport"){
+			gnbSubMenu('sub_3'); $('#program_'+mcd).addClass('sub_hover');
+		}
+		else if(url.indexOf("sports") != -1){
+			gnbSubMenu('sub_5'); $('#photo_'+mcd).addClass('sub_hover');
+		}
+		else if(url.indexOf("photo") != -1 || url.indexOf("_sn") != -1 || mcd == "0109" || mcd == "0122" || mcd == "photo_gallery"){
+			if((mcd=="0107" && (hcd=="02" || hcd=="03")) || mcd=="1401") { gnbSubMenu('sub_5'); $('#photo_9901').addClass('sub_hover'); }
+			else if((mcd=="0107" && (hcd=="04" || hcd=="05")) || mcd=="1402") { gnbSubMenu('sub_5'); $('#photo_9902').addClass('sub_hover'); }
+			else if(mcd=="0107" && hcd=="07") { gnbSubMenu('sub_5'); $('#photo_9903').addClass('sub_hover'); }
+			else if(mcd=="0107" && (hcd=="08" || hcd=="09" || hcd=="06")) { gnbSubMenu('sub_5'); $('#photo_9904').addClass('sub_hover'); }
+			else if((mcd=="0107" && hcd=="01") || mcd=="1403") { gnbSubMenu('sub_5'); $('#photo_9905').addClass('sub_hover'); }
+			else { gnbSubMenu('sub_4'); $('#photo_'+mcd).addClass('sub_hover'); }
+		}
+		else if(url.indexOf("yreport") != -1 || url.indexOf("mj") != -1){
+			gnbSubMenu('sub_8'); $('#'+mcd).addClass('sub_hover');
+		}
+		else{
+			gnbSubMenu('sub_1');
+		}
+	}
+
+	$('.right_menu').mouseover(function(e){ if(!$(this).attr('onmouseover') && gnbMode) gnbSubMenu(''); });
+	$('.total_bg').mouseover(function(e){ if(!$(this).attr('onmouseover') && gnbMode) gnbSubMenu(''); });
+
+	window.setInterval("doPlay()", "1000");
+
+	$(window).scroll(function()			// 스크롤바가 움직일 때 마다 콜백 한다
+	{
+		if($(window).scrollTop()<246 && gnbMode){			//기본 GNB 노출
+			$("#clone").hide();
+			gnbMode = 0;
+			chkSubMenu();	// GNB 메뉴 재처리
+		}else if($(window).scrollTop()>246 && !gnbMode){	//심플 GNB 노출
+			$('.m_tit').removeClass( 'm_tit_hover menu01_hover' );
+			$("#clone").css('z-index', '99999');
+			$("#clone").show();
+			gnbMode = 1;
+		}
+
+		//console.log('p='+$(window).scrollTop());
+	});
+</script> 
+   </div> 
+   <script type="text/javascript">gnbSubMenu('sub_5'); $('#photo_9902').addClass('sub_hover');</script> 
+   <div id="wrap"> 
+    <!-- czone (width:980)--> 
+    <div id="czone"> 
+     <!-- zone1 (width:650) --> 
+     <div id="zone1"> 
+      <!--카테고리 제목--> 
+      <h4 class="newstitle_h4">스포츠 &gt; 축구</h4> 
+      <!--//카테고리 제목--> 
+      <!-- 리스트 --> 
+      <div id="ytn_list_v2014"> 
+       <dl class="photo_list"> 
+        <dd class="vertical">
+         <p class="ph"><a href="/_sn/1402_201809051557022248">
+           <noscript>
+            <img src="http://img.cdnfootball.ytn.co.kr/osen/2018/09/201809051557022248_1.jpg" alt="대전 고종수 감독, 8월 '인터파크 이달의 감독' 선정" style="max-width:150px; max-height: 150px;" title="대전 고종수 감독, 8월 '인터파크 이달의 감독' 선정">
+           </noscript><img data-src="http://img.cdnfootball.ytn.co.kr/osen/2018/09/201809051557022248_1.jpg" alt="대전 고종수 감독, 8월 '인터파크 이달의 감독' 선정" style="max-width:150px; max-height: 150px;" title="대전 고종수 감독, 8월 '인터파크 이달의 감독' 선정"></a></p>
+        </dd> 
+        <dt>
+         <a href="/_sn/1402_201809051557022248">대전 고종수 감독, 8월 '인터파크 이달의 감독' 선정</a>
+        </dt> 
+        <dd class="text">
+         <a href="/_sn/1402_201809051557022248"> [인터풋볼] 윤경식 기자= 대전의 고종수 감독이 8월 '인터파크 이달의 감독'에 선정됐다. 고종수 감독의 대전 시티즌은 8월에 열린 KEB하나은행 K리그2 2018 5경기에서 3승 2무의 무패행진을 달리며 한달여만에 하위권(9위, 7월 말 기준)에서 중위권(6위, 8월 말 기준)으로 수직 상승을 달성했다. 대전은 이 기간 6득점 2실점이라는 안정적...</a>
+        </dd> 
+        <dd class="date">
+         [2018-09-05 15:56] 
+        </dd> 
+       </dl> 
+       <dl class="photo_list"> 
+        <dd class="vertical">
+         <p class="ph"><a href="/_sn/1402_201809051554021474">
+           <noscript>
+            <img src="http://img.cdnfootball.ytn.co.kr/osen/2018/09/201809051554021474_1.jpg" alt="포항, '軍전역' 공격수 김도형 영입 발표...등번호 13번" style="max-width:150px; max-height: 150px;" title="포항, '軍전역' 공격수 김도형 영입 발표...등번호 13번">
+           </noscript><img data-src="http://img.cdnfootball.ytn.co.kr/osen/2018/09/201809051554021474_1.jpg" alt="포항, '軍전역' 공격수 김도형 영입 발표...등번호 13번" style="max-width:150px; max-height: 150px;" title="포항, '軍전역' 공격수 김도형 영입 발표...등번호 13번"></a></p>
+        </dd> 
+        <dt>
+         <a href="/_sn/1402_201809051554021474">포항, '軍전역' 공격수 김도형 영입 발표...등번호 13번</a>
+        </dt> 
+        <dd class="text">
+         <a href="/_sn/1402_201809051554021474"> [인터풋볼] 윤경식 기자= 포항스틸러스가 상주상무를 전역한 김도형을 영입하였다. 김도형은 상주상무 입대 후 원 소속 구단이었던 충주 험멜이 해체돼 자유계약 신분으로 포항과 계약하였다. 드리블을 활용한 돌파와 적극적인 공간침투가 강점인 김도형은 동료를 활용한 연계플레이에도 능하다. 특히 공격수로서 가장 큰 미덕이라 할 수 있...</a>
+        </dd> 
+        <dd class="date">
+         [2018-09-05 15:52] 
+        </dd> 
+       </dl> 
+       <dl class="photo_list"> 
+        <dd class="vertical">
+         <p class="ph"><a href="/_sn/1402_201809051254017132">
+           <noscript>
+            <img src="http://img.cdnfootball.ytn.co.kr/osen/2018/09/201809051254017132_1.jpg" alt="강원FC '승격공신' 최진호 전역, &quot;경쟁에서 살아남겠다&quot;" style="max-width:150px; max-height: 150px;" title="강원FC '승격공신' 최진호 전역, &quot;경쟁에서 살아남겠다&quot;">
+           </noscript><img data-src="http://img.cdnfootball.ytn.co.kr/osen/2018/09/201809051254017132_1.jpg" alt="강원FC '승격공신' 최진호 전역, &quot;경쟁에서 살아남겠다&quot;" style="max-width:150px; max-height: 150px;" title="강원FC '승격공신' 최진호 전역, &quot;경쟁에서 살아남겠다&quot;"></a></p>
+        </dd> 
+        <dt>
+         <a href="/_sn/1402_201809051254017132">강원FC '승격공신' 최진호 전역, "경쟁에서 살아남겠다"</a>
+        </dt> 
+        <dd class="text">
+         <a href="/_sn/1402_201809051254017132"> [인터풋볼] 정지훈 기자= 강원FC '승격공신' 최진호가 군 복무를 마치고 팀에 복귀한다. 최진호는 4일 상주상무에서 21개월여 동안의 군 복무를 성실히 수행하고 전역했다. '승격공신'이자 강원FC NO.10으로 팬들의 사랑을 한 몸에 받았던 최진호가 드디어 친정팀 강원FC에 돌아온 것이다. 강원FC 유니폼을 입고 100경기를 넘게 뛴 만큼 팀에 복귀...</a>
+        </dd> 
+        <dd class="date">
+         [2018-09-05 12:46] 
+        </dd> 
+       </dl> 
+       <dl class="photo_list"> 
+        <dd class="vertical">
+         <p class="ph"><a href="/_sn/1402_201809051254015553">
+           <noscript>
+            <img src="http://img.cdnfootball.ytn.co.kr/osen/2018/09/201809051254015553_1.jpg" alt="벤투호 1기 출항, 역대 대표팀 감독들의 데뷔전은 어땠나" style="max-width:150px; max-height: 150px;" title="벤투호 1기 출항, 역대 대표팀 감독들의 데뷔전은 어땠나">
+           </noscript><img data-src="http://img.cdnfootball.ytn.co.kr/osen/2018/09/201809051254015553_1.jpg" alt="벤투호 1기 출항, 역대 대표팀 감독들의 데뷔전은 어땠나" style="max-width:150px; max-height: 150px;" title="벤투호 1기 출항, 역대 대표팀 감독들의 데뷔전은 어땠나"></a></p>
+        </dd> 
+        <dt>
+         <a href="/_sn/1402_201809051254015553">벤투호 1기 출항, 역대 대표팀 감독들의 데뷔전은 어땠나</a>
+        </dt> 
+        <dd class="text">
+         <a href="/_sn/1402_201809051254015553"> [인터풋볼] 정지훈 기자= 국가대표팀의 새 사령탑 파울루 벤투 감독이 7일(금) 고양종합운동장에서 코스타리카를 상대로 데뷔전을 갖는다. 벤투 감독의 데뷔전을 맞이해 지금까지 역대 국가대표팀 감독들의 데뷔전과 관련된 각종 기록을 정리했다. 축구대표팀 최초의 전임 감독은 1994년 미국 월드컵을 앞두고 선임된 김호 감독이다. 하지만, 김호 감...</a>
+        </dd> 
+        <dd class="date">
+         [2018-09-05 12:51] 
+        </dd> 
+       </dl> 
+       <dl class="photo_list"> 
+        <dd class="vertical">
+         <p class="ph"><a href="/_sn/1402_201809051018016469">
+           <noscript>
+            <img src="http://img.cdnfootball.ytn.co.kr/osen/2018/09/201809051018016469_1.jpg" alt=" 조현우, 무릎 부상으로 대표팀 낙마...송범근 대체발탁" style="max-width:150px; max-height: 150px;" title=" 조현우, 무릎 부상으로 대표팀 낙마...송범근 대체발탁">
+           </noscript><img data-src="http://img.cdnfootball.ytn.co.kr/osen/2018/09/201809051018016469_1.jpg" alt=" 조현우, 무릎 부상으로 대표팀 낙마...송범근 대체발탁" style="max-width:150px; max-height: 150px;" title=" 조현우, 무릎 부상으로 대표팀 낙마...송범근 대체발탁"></a></p>
+        </dd> 
+        <dt>
+         <a href="/_sn/1402_201809051018016469"> 조현우, 무릎 부상으로 대표팀 낙마...송범근 대체발탁</a>
+        </dt> 
+        <dd class="text">
+         <a href="/_sn/1402_201809051018016469"> [인터풋볼] 정지훈 기자= 대표팀의 주전 수문장 조현우가 아시안게임에서 입은 무릎 부상 때문에 9월 A매치 출전이 무산됐다. 예비 명단에 있던 송범근이 대체 발탁됐다. 대한축구협회는 5일 오전 "조현우가 2018 자카르타-팔렘방 아시안게임 때 다친 무릎 부상으로 9월 친선 2연전 출전이 어려울 것으로 판단해 송범근을 대체 발탁했다"고 발표했다....</a>
+        </dd> 
+        <dd class="date">
+         [2018-09-05 10:17] 
+        </dd> 
+       </dl> 
+       <!-- 플러스 이벤트
+<div class="YTN_CSA_eventgisabnner" style="float:left;margin-left:0;padding-top:5px;padding-bottom:10px;margin-top:-6px; display: none;" id="eventBanner">
+<a title="YTN 이벤트" target="_top"><img width="676" alt="YTN 이벤트"/></a>
+</div>
+
+<script type="text/javascript">
+$(function(){
+try{
+  var _bnrMain, _bnrSub, _link, _taget;
+  var r=Math.floor(Math.random()*2);
+  var dt = new Date();
+
+  if( (new Date(2016,11,30,9,00,00))<dt ){
+    _bnrMain='/img/banner/bnr_vote_data_main.jpg';
+    _bnrSub='/img/banner/bnr_vote_data_sub.jpg';
+    _link='/issue/issue_list.php?tidx=2065&tcd1=03';
+    _taget='_self';
+  }else{
+  }
+
+	if( _bnrMain && _bnrSub && _link ){
+	  if( $("#CmAdContent, #yreport_vod").length ) $("#eventBanner img").attr('src',_bnrMain).attr('width','676');	//기사보기
+	  else $("#eventBanner img").attr('src',_bnrSub).attr('width','650');		//리스트
+	  $("#eventBanner a").attr('href',_link).attr('target',_taget); //링크
+	  $("#eventBanner").css("display", "inline-block");
+	}else{
+	  $('.YTN_CSA_YEvent').hide();
+	  $('#eventBanner').hide();
+	}
+}catch (err){ 	}
+});
+</script>
+<!--// 플러스 이벤트 --> 
+       <dl class="photo_list"> 
+        <dd class="vertical">
+         <p class="ph"><a href="/_sn/0107_201809042341200356">
+           <noscript>
+            <img src="http://image.ytn.co.kr/general/jpg/2018/0904/201809042341200356_h.jpg" alt="손흥민 황의조 등 8명 합류...'완전체' 벤투호 첫 훈련" style="max-width:150px; max-height: 150px;" title="손흥민 황의조 등 8명 합류...'완전체' 벤투호 첫 훈련">
+           </noscript><img data-src="http://image.ytn.co.kr/general/jpg/2018/0904/201809042341200356_h.jpg" alt="손흥민 황의조 등 8명 합류...'완전체' 벤투호 첫 훈련" style="max-width:150px; max-height: 150px;" title="손흥민 황의조 등 8명 합류...'완전체' 벤투호 첫 훈련"></a></p>
+        </dd> 
+        <dt>
+         <a href="/_sn/0107_201809042341200356">손흥민 황의조 등 8명 합류...'완전체' 벤투호 첫 훈련</a>
+        </dt> 
+        <dd class="text">
+         <a href="/_sn/0107_201809042341200356">[앵커] 손흥민과 황의조 등 아시안게임에 출전한 선수 8명이 대표팀 훈련에 합류했습니다. 이로써 완전체가 된 벤투호는 본격적으로 평가전 준비에 돌입했는데요. 이형원 기자가 다녀왔습니다. [기자] 벤투 감독이 이끄는 대표팀의 이틀째 소집 훈련. 이번엔 24명이 모두 모여 호흡 맞추기에 들어갔습니다. 아시안게임 금메달을 따고 돌...</a>
+        </dd> 
+        <dd class="date">
+         [2018-09-04 23:41] 
+        </dd> 
+       </dl> 
+       <dl class="photo_list"> 
+        <dd class="vertical">
+         <p class="ph"><a href="/_sn/1402_201809042227021831">
+           <noscript>
+            <img src="http://img.cdnfootball.ytn.co.kr/osen/2018/09/201809042227021831_1.jpg" alt="베로나의 이승우 챙기기, &quot;LEE, A매치 2연전 앞둬&quot;" style="max-width:150px; max-height: 150px;" title="베로나의 이승우 챙기기, &quot;LEE, A매치 2연전 앞둬&quot;">
+           </noscript><img data-src="http://img.cdnfootball.ytn.co.kr/osen/2018/09/201809042227021831_1.jpg" alt="베로나의 이승우 챙기기, &quot;LEE, A매치 2연전 앞둬&quot;" style="max-width:150px; max-height: 150px;" title="베로나의 이승우 챙기기, &quot;LEE, A매치 2연전 앞둬&quot;"></a></p>
+        </dd> 
+        <dt>
+         <a href="/_sn/1402_201809042227021831">베로나의 이승우 챙기기, "LEE, A매치 2연전 앞둬"</a>
+        </dt> 
+        <dd class="text">
+         <a href="/_sn/1402_201809042227021831"> [인터풋볼] 이현호 기자=헬라스 베로나가 소속팀 선수인 이승우의 소식에 큰 관심을 보이고 있다. 이승우가 활약하는 베로나는 4일(한국시간) 공식 홈페이지릍 통해 "파울루 벤투 감독이 이끄는 한국 대표팀에 이승우가 소집됐다"면서 "한국 대표팀은 고양에서 코스타리카를 상대하고, 수원에서 칠레와 경기를 치른다. 아시안게임에서 우승한 이승우...</a>
+        </dd> 
+        <dd class="date">
+         [2018-09-04 22:24] 
+        </dd> 
+       </dl> 
+       <dl class="photo_list"> 
+        <dd class="vertical">
+         <p class="ph"><a href="/_sn/1402_201809041839019371">
+           <noscript>
+            <img src="http://img.cdnfootball.ytn.co.kr/osen/2018/09/201809041839019371_1.png" alt="'수원FC 슈퍼 루키' 조유민, 금메달 걸고 금의환향" style="max-width:150px; max-height: 150px;" title="'수원FC 슈퍼 루키' 조유민, 금메달 걸고 금의환향">
+           </noscript><img data-src="http://img.cdnfootball.ytn.co.kr/osen/2018/09/201809041839019371_1.png" alt="'수원FC 슈퍼 루키' 조유민, 금메달 걸고 금의환향" style="max-width:150px; max-height: 150px;" title="'수원FC 슈퍼 루키' 조유민, 금메달 걸고 금의환향"></a></p>
+        </dd> 
+        <dt>
+         <a href="/_sn/1402_201809041839019371">'수원FC 슈퍼 루키' 조유민, 금메달 걸고 금의환향</a>
+        </dt> 
+        <dd class="text">
+         <a href="/_sn/1402_201809041839019371"> [인터풋볼] 정지훈 기자= 언성 히어로 조유민 조연에서 주연으로 2018 자카르타-팔렘방 아시안게임(AG) 남자축구에서 수원FC 소속 조유민 선수가 선발 출장한 한-일 결승전에서 연장 혈투 끝에 2-1로 이겨 금메달을 차지했다. 조유민은 청주대성고, 중앙대를 거쳐 2018년 수원FC에 입단한 신인선수로, 프로 데뷔 첫 해임에도 김대의 감독의 신임을 ...</a>
+        </dd> 
+        <dd class="date">
+         [2018-09-04 18:37] 
+        </dd> 
+       </dl> 
+       <dl class="photo_list"> 
+        <dd class="vertical">
+         <p class="ph"><a href="/_sn/1402_201809041839018097">
+           <noscript>
+            <img src="http://img.cdnfootball.ytn.co.kr/osen/2018/09/201809041839018097_1.jpg" alt="서울 이랜드FC, 친환경 건강식품 기업 모노보틀과 스폰서십 체결!" style="max-width:150px; max-height: 150px;" title="서울 이랜드FC, 친환경 건강식품 기업 모노보틀과 스폰서십 체결!">
+           </noscript><img data-src="http://img.cdnfootball.ytn.co.kr/osen/2018/09/201809041839018097_1.jpg" alt="서울 이랜드FC, 친환경 건강식품 기업 모노보틀과 스폰서십 체결!" style="max-width:150px; max-height: 150px;" title="서울 이랜드FC, 친환경 건강식품 기업 모노보틀과 스폰서십 체결!"></a></p>
+        </dd> 
+        <dt>
+         <a href="/_sn/1402_201809041839018097">서울 이랜드FC, 친환경 건강식품 기업 모노보틀과 스폰서십 체결!</a>
+        </dt> 
+        <dd class="text">
+         <a href="/_sn/1402_201809041839018097"> [인터풋볼] 정지훈 기자= 서울 이랜드 FC가 친환경 건강식품 기업 모노보틀과 후원 협약을 맺었다. 서울 이랜드 FC는 9월 3일 잠실올림픽주경기장에서 모노보틀과 유소년팀 단백질 보충제 후원 스폰서십을 체결했다. 이번 체결식에는 서울 이랜드 FC 김현수 대표이사와 모노보틀 최병일 대표이사가 참석했다. 모노보틀은 2017년 11월 설립된 회사로 ...</a>
+        </dd> 
+        <dd class="date">
+         [2018-09-04 18:36] 
+        </dd> 
+       </dl> 
+       <dl class="photo_list"> 
+        <dd class="vertical">
+         <p class="ph"><a href="/_sn/1402_201809041839016502">
+           <noscript>
+            <img src="http://img.cdnfootball.ytn.co.kr/osen/2018/09/201809041839016502_1.jpg" alt="K리그 아카데미 감독과정 개최, 지휘봉 대신 펜을 든 'K리그 감독들'" style="max-width:150px; max-height: 150px;" title="K리그 아카데미 감독과정 개최, 지휘봉 대신 펜을 든 'K리그 감독들'">
+           </noscript><img data-src="http://img.cdnfootball.ytn.co.kr/osen/2018/09/201809041839016502_1.jpg" alt="K리그 아카데미 감독과정 개최, 지휘봉 대신 펜을 든 'K리그 감독들'" style="max-width:150px; max-height: 150px;" title="K리그 아카데미 감독과정 개최, 지휘봉 대신 펜을 든 'K리그 감독들'"></a></p>
+        </dd> 
+        <dt>
+         <a href="/_sn/1402_201809041839016502">K리그 아카데미 감독과정 개최, 지휘봉 대신 펜을 든 'K리그 감독들'</a>
+        </dt> 
+        <dd class="text">
+         <a href="/_sn/1402_201809041839016502"> [인터풋볼] 정지훈 기자= 현역 K리그 감독들이 한 자리에 모였다. K리그의 발전을 함께 고민하기 위해 축구장이 아닌, 회의장 책상에 둘러앉았다. 한국프로축구연맹(총재 권오갑, 이하 '연맹')은 4일, 서울 그랜드 힐튼 호텔에서 현역 K리그 감독들이 참여하는 '2018 K리그 아카데미 3차 감독과정'을 개최했다. 인천의 안데르센, 대구 안드레 감독...</a>
+        </dd> 
+        <dd class="date">
+         [2018-09-04 18:31] 
+        </dd> 
+       </dl> 
+       <dl class="photo_list"> 
+        <dd class="vertical">
+         <p class="ph"><a href="/_sn/1402_201809041839014935">
+           <noscript>
+            <img src="http://img.cdnfootball.ytn.co.kr/osen/2018/09/201809041839014935_1.jpg" alt="홍명보장학재단, WWH131 서평교육 프로그램 진행" style="max-width:150px; max-height: 150px;" title="홍명보장학재단, WWH131 서평교육 프로그램 진행">
+           </noscript><img data-src="http://img.cdnfootball.ytn.co.kr/osen/2018/09/201809041839014935_1.jpg" alt="홍명보장학재단, WWH131 서평교육 프로그램 진행" style="max-width:150px; max-height: 150px;" title="홍명보장학재단, WWH131 서평교육 프로그램 진행"></a></p>
+        </dd> 
+        <dt>
+         <a href="/_sn/1402_201809041839014935">홍명보장학재단, WWH131 서평교육 프로그램 진행</a>
+        </dt> 
+        <dd class="text">
+         <a href="/_sn/1402_201809041839014935"> [인터풋볼] 정지훈 기자= "어떤 축구 선수가 되고 싶냐 하시는 선생님 질문에 답변 드리겠습니다. 제가 축구선수가 된다면..." 홍명보장학재단과 국민독서문화진흥회가 함께하는 W.I.S.E 캠페인의 일환으로 'WWH131 서평교육'이 지난 28~29일 서울 성동구의 성동FC와 경기 화성시의 화산초등학교에서 진행되었다. W.I.S.E 캠페인은 축구훈련에만 몰...</a>
+        </dd> 
+        <dd class="date">
+         [2018-09-04 18:34] 
+        </dd> 
+       </dl> 
+       <dl class="photo_list"> 
+        <dd class="vertical">
+         <p class="ph"><a href="/_sn/1402_201809041803022520">
+           <noscript>
+            <img src="http://img.cdnfootball.ytn.co.kr/osen/2018/09/201809041803022520_1.jpg" alt=" '완전체' 뭉친 벤투호, 코스타리카전 대비 본격 담금질" style="max-width:150px; max-height: 150px;" title=" '완전체' 뭉친 벤투호, 코스타리카전 대비 본격 담금질">
+           </noscript><img data-src="http://img.cdnfootball.ytn.co.kr/osen/2018/09/201809041803022520_1.jpg" alt=" '완전체' 뭉친 벤투호, 코스타리카전 대비 본격 담금질" style="max-width:150px; max-height: 150px;" title=" '완전체' 뭉친 벤투호, 코스타리카전 대비 본격 담금질"></a></p>
+        </dd> 
+        <dt>
+         <a href="/_sn/1402_201809041803022520"> '완전체' 뭉친 벤투호, 코스타리카전 대비 본격 담금질</a>
+        </dt> 
+        <dd class="text">
+         <a href="/_sn/1402_201809041803022520"> [인터풋볼=파주] 유지선 기자= 아시안게임 멤버까지 합류한 '벤투호'가 본격적인 훈련에 돌입했다. 코스타리카전이 3일 앞으로 다가온 만큼 훈련을 비공개로 전환하며 알짜배기 훈련을 이어갔다. 파울루 벤투 감독이 이끄는 대한민국 축구 국가 대표팀은 4일 오후 5시 파주 축구국가대표팀 트레이닝센터(NFC)에서 훈련을 진행했다. 이날 오전 손흥민,...</a>
+        </dd> 
+        <dd class="date">
+         [2018-09-04 18:00] 
+        </dd> 
+       </dl> 
+       <dl class="photo_list"> 
+        <dd class="vertical">
+         <p class="ph"><a href="/_sn/1402_201809041751014270">
+           <noscript>
+            <img src="http://img.cdnfootball.ytn.co.kr/osen/2018/09/201809041751014270_1.jpg" alt=" 연맹의 갑질? 조태룡 대표의 말이 '어불성설'인 이유" style="max-width:150px; max-height: 150px;" title=" 연맹의 갑질? 조태룡 대표의 말이 '어불성설'인 이유">
+           </noscript><img data-src="http://img.cdnfootball.ytn.co.kr/osen/2018/09/201809041751014270_1.jpg" alt=" 연맹의 갑질? 조태룡 대표의 말이 '어불성설'인 이유" style="max-width:150px; max-height: 150px;" title=" 연맹의 갑질? 조태룡 대표의 말이 '어불성설'인 이유"></a></p>
+        </dd> 
+        <dt>
+         <a href="/_sn/1402_201809041751014270"> 연맹의 갑질? 조태룡 대표의 말이 '어불성설'인 이유</a>
+        </dt> 
+        <dd class="text">
+         <a href="/_sn/1402_201809041751014270"> [인터풋볼] 정지훈 기자= 비위 혐의로 논란이 된 조태룡 강원FC 대표이사가 "연맹의 갑질", "불합리한 공격"이라는 표현을 쓰며 공식 입장을 밝혔다. 그러나 조태룡 대표이사의 말은 앞뒤가 맞지 않는 '어불성설(하는 말이 앞뒤가 맞지 않는다는 뜻으로 한 말이 사리에 어긋나고 일관되지 못하며 이치에서 벗어난다는 뜻)'이었고, 자신의 불리한 상황을...</a>
+        </dd> 
+        <dd class="date">
+         [2018-09-04 17:49] 
+        </dd> 
+       </dl> 
+       <dl class="photo_list"> 
+        <dd class="vertical">
+         <p class="ph"><a href="/_sn/1402_201809041706016681">
+           <noscript>
+            <img src="http://img.cdnfootball.ytn.co.kr/osen/2018/09/201809041706016681_1.jpg" alt=" '30분만 공개' 벤투호, 조현우-문선민-기성용은 불참" style="max-width:150px; max-height: 150px;" title=" '30분만 공개' 벤투호, 조현우-문선민-기성용은 불참">
+           </noscript><img data-src="http://img.cdnfootball.ytn.co.kr/osen/2018/09/201809041706016681_1.jpg" alt=" '30분만 공개' 벤투호, 조현우-문선민-기성용은 불참" style="max-width:150px; max-height: 150px;" title=" '30분만 공개' 벤투호, 조현우-문선민-기성용은 불참"></a></p>
+        </dd> 
+        <dt>
+         <a href="/_sn/1402_201809041706016681"> '30분만 공개' 벤투호, 조현우-문선민-기성용은 불참</a>
+        </dt> 
+        <dd class="text">
+         <a href="/_sn/1402_201809041706016681"> [인터풋볼=파주] 유지선 기자= '벤투호'에 아시안게임 멤버까지 합류하면서 24인 완전체가 뭉쳤다. 파울루 벤투 감독이 이끄는 대한민국 축구 국가 대표팀은 4일 오후 5시 파주 축구국가대표팀 트레이닝센터(NFC)에서 훈련을 진행했다. 이날 오전 손흥민, 조현우, 이승우, 황희찬 등 아시안게임 멤버 8명까지 합류하면서 대표팀은 24인 완전체로 첫 ...</a>
+        </dd> 
+        <dd class="date">
+         [2018-09-04 17:03] 
+        </dd> 
+       </dl> 
+       <dl class="photo_list"> 
+        <dd class="vertical">
+         <p class="ph"><a href="/_sn/1402_201809041700031194">
+           <noscript>
+            <img src="http://img.cdnfootball.ytn.co.kr/osen/2018/09/201809041700031194_1.jpg" alt=" 김문환, &quot;첫 인상이 중요하다...AG 시너지효과 기대&quot; (일문일답)" style="max-width:150px; max-height: 150px;" title=" 김문환, &quot;첫 인상이 중요하다...AG 시너지효과 기대&quot; (일문일답)">
+           </noscript><img data-src="http://img.cdnfootball.ytn.co.kr/osen/2018/09/201809041700031194_1.jpg" alt=" 김문환, &quot;첫 인상이 중요하다...AG 시너지효과 기대&quot; (일문일답)" style="max-width:150px; max-height: 150px;" title=" 김문환, &quot;첫 인상이 중요하다...AG 시너지효과 기대&quot; (일문일답)"></a></p>
+        </dd> 
+        <dt>
+         <a href="/_sn/1402_201809041700031194"> 김문환, "첫 인상이 중요하다...AG 시너지효과 기대" (일문일답)</a>
+        </dt> 
+        <dd class="text">
+         <a href="/_sn/1402_201809041700031194"> [인터풋볼=파주] 유지선 기자= 2018 아시안게임에서 활약하며 생애 첫 A대표팀 승선에 성공한 김문환(23, 부산 아이파크)이 강렬한 첫 인상을 남기고 싶다고 밝혔다. 파울루 벤투 감독이 이끄는 대한민국 축구 국가 대표팀은 지난 3일 파주 축구국가대표팀 트레이닝센터(NFC)에 소집돼 벤투 감독과 첫 대면을 했다. 총 16명이 소집됐으며, 4일 오전에...</a>
+        </dd> 
+        <dd class="date">
+         [2018-09-04 16:58] 
+        </dd> 
+       </dl> 
+       <dl class="photo_list"> 
+        <dd class="vertical">
+         <p class="ph"><a href="/_sn/1402_201809041654022366">
+           <noscript>
+            <img src="http://img.cdnfootball.ytn.co.kr/osen/2018/09/201809041654022366_1.jpg" alt=" 황인범, &quot;우선 목표는 데뷔...많은 것 배우고 가겠다&quot; (일문일답)" style="max-width:150px; max-height: 150px;" title=" 황인범, &quot;우선 목표는 데뷔...많은 것 배우고 가겠다&quot; (일문일답)">
+           </noscript><img data-src="http://img.cdnfootball.ytn.co.kr/osen/2018/09/201809041654022366_1.jpg" alt=" 황인범, &quot;우선 목표는 데뷔...많은 것 배우고 가겠다&quot; (일문일답)" style="max-width:150px; max-height: 150px;" title=" 황인범, &quot;우선 목표는 데뷔...많은 것 배우고 가겠다&quot; (일문일답)"></a></p>
+        </dd> 
+        <dt>
+         <a href="/_sn/1402_201809041654022366"> 황인범, "우선 목표는 데뷔...많은 것 배우고 가겠다" (일문일답)</a>
+        </dt> 
+        <dd class="text">
+         <a href="/_sn/1402_201809041654022366"> [인터풋볼=파주] 유지선 기자= 2018 아시안게임에서 활약을 발판 삼아 A대표팀 합류한 황인범(22, 아산 무궁화)이 A매치 데뷔전을 우선 목표로 꼽았다. 파울루 벤투 감독이 이끄는 대한민국 축구 국가 대표팀은 지난 3일 파주 축구국가대표팀 트레이닝센터(NFC)에 소집돼 벤투 감독과 첫 대면을 했다. 총 16명이 소집됐으며, 4일 오전에는 손흥민과 ...</a>
+        </dd> 
+        <dd class="date">
+         [2018-09-04 16:50] 
+        </dd> 
+       </dl> 
+       <dl class="photo_list"> 
+        <dd class="vertical">
+         <p class="ph"><a href="/_sn/0107_201809041621303599">
+           <noscript>
+            <img src="http://image.ytn.co.kr/general/jpg/2018/0904/201809041621303599_h.jpg" alt="금메달 손흥민의 병역면제는 해외 토픽감?" style="max-width:150px; max-height: 150px;" title="금메달 손흥민의 병역면제는 해외 토픽감?">
+           </noscript><img data-src="http://image.ytn.co.kr/general/jpg/2018/0904/201809041621303599_h.jpg" alt="금메달 손흥민의 병역면제는 해외 토픽감?" style="max-width:150px; max-height: 150px;" title="금메달 손흥민의 병역면제는 해외 토픽감?"></a></p>
+        </dd> 
+        <dt>
+         <a href="/_sn/0107_201809041621303599">금메달 손흥민의 병역면제는 해외 토픽감?</a>
+        </dt> 
+        <dd class="text">
+         <a href="/_sn/0107_201809041621303599">■ 최 진 / 대통령리더십연구원 원장, 박정하 / 前 청와대 대변인 [앵커] 아시안게임은 막을 내렸지만 병역특례 논란은 새롭게 불이 붙고 있습니다. 정치권에서도 이 문제가 입에 오르고 있는데요. 최진 대통령리더십연구원 원장, 박정하 전 청와대 대변인과 이야기 해 보겠습니다. 두 분 안녕하십니까? [인터뷰] 안녕하세요. [앵커] 이...</a>
+        </dd> 
+        <dd class="date">
+         [2018-09-04 16:21] 
+        </dd> 
+       </dl> 
+       <dl class="photo_list"> 
+        <dd class="vertical">
+         <p class="ph"><a href="/_sn/1402_201809041439022537">
+           <noscript>
+            <img src="http://img.cdnfootball.ytn.co.kr/osen/2018/09/201809041439022537_1.jpg" alt=" 빛나는 AG 금메달, 'K리그 유스의 힘' 증명하다" style="max-width:150px; max-height: 150px;" title=" 빛나는 AG 금메달, 'K리그 유스의 힘' 증명하다">
+           </noscript><img data-src="http://img.cdnfootball.ytn.co.kr/osen/2018/09/201809041439022537_1.jpg" alt=" 빛나는 AG 금메달, 'K리그 유스의 힘' 증명하다" style="max-width:150px; max-height: 150px;" title=" 빛나는 AG 금메달, 'K리그 유스의 힘' 증명하다"></a></p>
+        </dd> 
+        <dt>
+         <a href="/_sn/1402_201809041439022537"> 빛나는 AG 금메달, 'K리그 유스의 힘' 증명하다</a>
+        </dt> 
+        <dd class="text">
+         <a href="/_sn/1402_201809041439022537"> [인터풋볼=신문로] 정지훈 기자= 빛나는 아시안게임 금메달. 이 중심에는 K리그 유스 출신 선수들이 있었고, 황의조, 황인범, 황희찬, 김민재 등 총 15명의 K리그 유스 출신 선수들이 뛰어난 활약을 펼치며 금메달을 따냈다. 김학범 감독이 이끄는 대한민국 아시안게임 남자 축구 대표팀은 1일 오후 8시 30분(한국시간)인도네시아 보고르 파칸사리 스...</a>
+        </dd> 
+        <dd class="date">
+         [2018-09-04 14:37] 
+        </dd> 
+       </dl> 
+       <dl class="photo_list"> 
+        <dd class="vertical">
+         <p class="ph"><a href="/_sn/1402_201809041157016681">
+           <noscript>
+            <img src="http://img.cdnfootball.ytn.co.kr/osen/2018/09/201809041157016681_1.jpg" alt=" 포항, '바르사 유스 출신' 장결희 품었다...내년부터 출전" style="max-width:150px; max-height: 150px;" title=" 포항, '바르사 유스 출신' 장결희 품었다...내년부터 출전">
+           </noscript><img data-src="http://img.cdnfootball.ytn.co.kr/osen/2018/09/201809041157016681_1.jpg" alt=" 포항, '바르사 유스 출신' 장결희 품었다...내년부터 출전" style="max-width:150px; max-height: 150px;" title=" 포항, '바르사 유스 출신' 장결희 품었다...내년부터 출전"></a></p>
+        </dd> 
+        <dt>
+         <a href="/_sn/1402_201809041157016681"> 포항, '바르사 유스 출신' 장결희 품었다...내년부터 출전</a>
+        </dt> 
+        <dd class="text">
+         <a href="/_sn/1402_201809041157016681"> [인터풋볼] 윤경식 기자= 포항스틸러스가 '바르셀로나 유스 출신' 장결희를 영입했다. 장결희는 빠른 속도를 활용해 측면을 파고드는 플레이와 정확한 크로스, 왼발 슈팅에 강점이 있는 선수다. 좌측과 우측, 공격과 수비를 가리지 않고 측면에서 활약할 수 있는 멀티 자원이다. 2011년 포항 U15 유스팀인 포항제철중학교 소속 선수로 포항...</a>
+        </dd> 
+        <dd class="date">
+         [2018-09-04 11:56] 
+        </dd> 
+       </dl> 
+       <dl class="photo_list"> 
+        <dd class="vertical">
+         <p class="ph"><a href="/_sn/1402_201809040951017043">
+           <noscript>
+            <img src="http://img.cdnfootball.ytn.co.kr/osen/2018/09/201809040951017043_1.jpg" alt=" 한국, 10월 '우루과이-파나마' 11월 '우즈벡' A매치 확정" style="max-width:150px; max-height: 150px;" title=" 한국, 10월 '우루과이-파나마' 11월 '우즈벡' A매치 확정">
+           </noscript><img data-src="http://img.cdnfootball.ytn.co.kr/osen/2018/09/201809040951017043_1.jpg" alt=" 한국, 10월 '우루과이-파나마' 11월 '우즈벡' A매치 확정" style="max-width:150px; max-height: 150px;" title=" 한국, 10월 '우루과이-파나마' 11월 '우즈벡' A매치 확정"></a></p>
+        </dd> 
+        <dt>
+         <a href="/_sn/1402_201809040951017043"> 한국, 10월 '우루과이-파나마' 11월 '우즈벡' A매치 확정</a>
+        </dt> 
+        <dd class="text">
+         <a href="/_sn/1402_201809040951017043"> [인터풋볼] 윤경식 기자= 우루과이, 파나마, 우즈베키스탄이 국가대표팀의 10월과 11월 친선경기 상대로 정해졌다. KFA는 오는 10월 12일 우루과이, 15일에는 파나마와 국내에서 친선 A매치를 갖기로 했다고 4일 발표했다. 11월 20일에는 호주 브리즈번에서 우즈베키스탄과 대결한다. 우루과이, 파나마전이 열리는 국내 도시와 세 경기의 킥오프 시간...</a>
+        </dd> 
+        <dd class="date">
+         [2018-09-04 09:50] 
+        </dd> 
+       </dl> 
+       <dl class="photo_list"> 
+        <dd class="vertical">
+         <p class="ph"><a href="/_sn/1402_201809040936019580">
+           <noscript>
+            <img src="http://img.cdnfootball.ytn.co.kr/osen/2018/09/201809040936019580_1.jpg" alt=" 남기일 감독이 보는 '금메달' 이시영, &quot;대표팀에서 많이 배웠을 것&quot;" style="max-width:150px; max-height: 150px;" title=" 남기일 감독이 보는 '금메달' 이시영, &quot;대표팀에서 많이 배웠을 것&quot;">
+           </noscript><img data-src="http://img.cdnfootball.ytn.co.kr/osen/2018/09/201809040936019580_1.jpg" alt=" 남기일 감독이 보는 '금메달' 이시영, &quot;대표팀에서 많이 배웠을 것&quot;" style="max-width:150px; max-height: 150px;" title=" 남기일 감독이 보는 '금메달' 이시영, &quot;대표팀에서 많이 배웠을 것&quot;"></a></p>
+        </dd> 
+        <dt>
+         <a href="/_sn/1402_201809040936019580"> 남기일 감독이 보는 '금메달' 이시영, "대표팀에서 많이 배웠을 것"</a>
+        </dt> 
+        <dd class="text">
+         <a href="/_sn/1402_201809040936019580"> [인터풋볼=잠실올림픽주경기장] 이명수 기자= "'할 수 있다'는 자신감을 배워서 돌아왔을 것입니다" 성남FC의 남기일 감독은 아시안게임 금메달을 딴 제자 이시영(20)의 금의환향을 반겼다. 남기일 감독은 이시영이 '할 수 있다'는 자신감을 갖고 성장했을 것이라 생각했다. 남기일 감독이 이끄는 성남FC는 3일 저녁 8시, 서울 잠실올림픽...</a>
+        </dd> 
+        <dd class="date">
+         [2018-09-04 09:34] 
+        </dd> 
+       </dl> 
+       <dl class="photo_list"> 
+        <dd class="vertical">
+         <p class="ph"><a href="/_sn/1402_201809040818016062">
+           <noscript>
+            <img src="http://img.cdnfootball.ytn.co.kr/osen/2018/09/201809040818016062_1.jpg" alt=" '상무 제대' 주민규, 서울 이랜드가 거는 희망" style="max-width:150px; max-height: 150px;" title=" '상무 제대' 주민규, 서울 이랜드가 거는 희망">
+           </noscript><img data-src="http://img.cdnfootball.ytn.co.kr/osen/2018/09/201809040818016062_1.jpg" alt=" '상무 제대' 주민규, 서울 이랜드가 거는 희망" style="max-width:150px; max-height: 150px;" title=" '상무 제대' 주민규, 서울 이랜드가 거는 희망"></a></p>
+        </dd> 
+        <dt>
+         <a href="/_sn/1402_201809040818016062"> '상무 제대' 주민규, 서울 이랜드가 거는 희망</a>
+        </dt> 
+        <dd class="text">
+         <a href="/_sn/1402_201809040818016062"> [인터풋볼=잠실올림픽주경기장] 이명수 기자= 주민규(28)가 돌아온다. 주민규는 1년 9개월간의 군 복무를 마친 뒤 원 소속팀 서울 이랜드에 복귀하고, 무승 사슬을 끊고자 하는 서울 이랜드에 큰 힘이 될 전망이다. 2016년 12월, 상주 상무에 입대한 주민규는 1년 9개월간의 군 복무를 마치고 4일 꿈에 그리던 전역증을 손에 넣는다. 전역 신고도 잠...</a>
+        </dd> 
+        <dd class="date">
+         [2018-09-04 08:17] 
+        </dd> 
+       </dl> 
+      </div> 
+      <!-- 리스트 --> 
+      <!-- paging --> 
+      <div id="paging">
+       <a href="#" class="now">1</a>&nbsp;
+       <a href="sports_list.php?page=2&amp;s_mcd=9902">2</a>&nbsp;
+       <a href="sports_list.php?page=3&amp;s_mcd=9902">3</a>&nbsp;
+       <a href="sports_list.php?page=4&amp;s_mcd=9902">4</a>&nbsp;
+       <a href="sports_list.php?page=5&amp;s_mcd=9902">5</a>&nbsp;
+       <a href="sports_list.php?page=6&amp;s_mcd=9902">6</a>&nbsp;
+       <a href="sports_list.php?page=7&amp;s_mcd=9902">7</a>&nbsp;
+       <a href="sports_list.php?page=8&amp;s_mcd=9902">8</a>&nbsp;
+       <a href="sports_list.php?page=9&amp;s_mcd=9902">9</a>&nbsp;
+       <a href="sports_list.php?page=10&amp;s_mcd=9902">10</a>&nbsp; 
+       <a href="sports_list.php?page=11&amp;s_mcd=9902" class="next"> <img src="/img/comm/btn_arrowright.gif" width="25" height="25" alt="다음"></a> 
+      </div> 
+      <!-- // paging --> 
+     </div> 
+     <!-- zone1 (width:650) --> 
+     <!-- zone2 (width:300) --> 
+     <div id="zone2">
+      <div id="aside"> 
+       <div class="adright_box"> 
+        <script type="text/javascript" src="//static.criteo.net/js/ld/publishertag.js" async="true"></script> 
+        <div id="crt-ede8bf04" style="width:300px;height:250px;"></div> 
+        <script type="text/javascript">
+var Criteo = Criteo || {};
+Criteo.events = Criteo.events || [];
+Criteo.events.push(function() {
+    Criteo.DisplayAd({
+        "zoneid": 331755,
+        "containerid": "crt-ede8bf04"
+    });
+});
+</script> 
+       </div> 
+       <ul class="many_news_tab"> 
+        <li onmouseover="tabChange('popnews')" id="tab_popnews"><img src="/img/comm/tit_popnews_on.gif" alt="인기 뉴스"></li> 
+        <li onmouseover="tabChange('popent')" id="tab_popent"><img src="/img/comm/tit_popent_off.gif" alt="인기 연예·스포츠"></li> 
+       </ul> 
+       <div class="main_manybox YTN_CSA_popularnews"> 
+        <div id="area_popnews"> 
+         <ul> 
+          <li class="num01"><a href="http://www.ytn.co.kr/_ln/0104_201809051035066103_001" target="_top"><b>'양심은 어디에...' 中 트럭 전복 사고, 쏟아진 과일 훔쳐 간 ...</b></a></li> 
+          <li class="num02"><a href="http://www.ytn.co.kr/_ln/0104_201809051550068637_001" target="_top">초강력 태풍에도 일하다가...도로에 쓰러진 日 피자 배달원</a></li> 
+          <li class="num03"><a href="http://www.ytn.co.kr/_ln/0107_201809051545064870_001" target="_top"><b>손흥민 "코스타리카전 때는 이승우 세리머니 방해 안 해"</b></a></li> 
+          <li class="num04"><a href="http://www.ytn.co.kr/_ln/0101_201809051328183422_001" target="_top">김성태 "공공기관 지방 이전, 서울 황폐화 의도"</a></li> 
+          <li class="num05"><a href="http://www.ytn.co.kr/_ln/0104_201809051450061462_001" target="_top"><b>교통사고 현장에서 실종된 반려견과 19일만에 재회</b></a></li> 
+          <li class="num06"><a href="http://www.ytn.co.kr/_ln/0104_201809051327591857_001" target="_top">'투병생활 중계'로 희망 줬던 불치병 천사, 하늘나라로...</a></li> 
+          <li class="num07"><a href="http://www.ytn.co.kr/_ln/0104_201809051430064428_001" target="_top"><b>中 폭우에 홍수로 마을 침수, 세탁기 속에 아이 넣어 구조한 소...</b></a></li> 
+          <li class="num08"><a href="http://www.ytn.co.kr/_ln/0103_201809051403503074_001" target="_top">"용산참사, 위험 알고도 진압 강행...여론전에 급급"</a></li> 
+          <li class="num09"><a href="http://www.ytn.co.kr/_ln/0107_201809051448472045_001" target="_top"><b>'사격의 박항서' 베트남 박충건 감독</b></a></li> 
+          <li class="num10 last"><a href="http://www.ytn.co.kr/_ln/0107_201809041050073817_001" target="_top">박항서, 한국전서 베트남 실점 당시 웃음 보인 이유 </a></li> 
+         </ul> 
+        </div> 
+        <div id="area_popent" style="display:none"> 
+         <ul> 
+          <li class="num01"><a href="http://www.ytn.co.kr/_sn/0117_201809051629171086_001" target="_top"><b>시나위 출신 손성훈, 가정폭력 혐의로 집행유예 2년</b></a></li> 
+          <li class="num02"><a href="http://www.ytn.co.kr/_sn/0117_201809051432142920_001" target="_top">박정아, 결혼 2년만에 임신 "내년 봄 출산 예정...태교 전념" </a></li> 
+          <li class="num03"><a href="http://www.ytn.co.kr/_sn/0117_201809050828077058_001" target="_top"><b>한동근, 음주운전 적발..."깊이 반성, 활동 중단하고 자숙"(공...</b></a></li> 
+          <li class="num04"><a href="http://www.ytn.co.kr/_sn/1412_201809041721014610_001" target="_top"> 원빈과 결혼→출산..이나영 BIFF서 6년만에 활동복귀</a></li> 
+          <li class="num05"><a href="http://www.ytn.co.kr/_sn/0117_201809051118174718_001" target="_top"><b>채림 "아이 걷기 직전...8년만의 복귀, 기쁘고 설레" 근황 공개</b></a></li> 
+          <li class="num06"><a href="http://www.ytn.co.kr/_sn/1412_201809042124013931_001" target="_top">‘1대100’ 예은 “힘 안들이고 10kg 감량, 굶는 다이어트X”</a></li> 
+          <li class="num07"><a href="http://www.ytn.co.kr/_sn/0117_201809051256014922_001" target="_top"><b>'시간', 주연배우 하차→스태프 갑질 논란까지…"불편 끼쳐 죄송"</b></a></li> 
+          <li class="num08"><a href="http://www.ytn.co.kr/_sn/0117_201809050919505752_001" target="_top">엄용수, 아파트 주차장서 교통사고…경비원 2명 다쳐</a></li> 
+          <li class="num09"><a href="http://www.ytn.co.kr/_sn/1406_201809040933017350_001" target="_top"><b> 성룡 19세 딸, 12살 연상 여자친구와 이미 약혼</b></a></li> 
+          <li class="num10 last"><a href="http://www.ytn.co.kr/_sn/0117_201809050917032043_001" target="_top">'원조 베이글녀' 이제니 '라라랜드' 합류 "웹디자이너로 새 삶"</a></li> 
+         </ul> 
+        </div> 
+       </div> 
+       <script type="text/javascript">
+var now_id = 'popnews';
+function tabChange(id){
+	if(id==now_id) return;
+	$("#tab_"+now_id).children("img").attr("src","/img/comm/tit_"+now_id+"_off.gif");
+	$("#tab_"+id).children("img").attr("src","/img/comm/tit_"+id+"_on.gif");
+	$("#area_"+id).show();
+	$("#area_"+now_id).hide();
+	now_id = id;
+}
+</script>
+       <div class="sub_adbox2"> 
+        <!-- <div class="head"><div class="title"><img src="../img/comm/tit_prmclick.gif" alt="프리미엄클릭"/></div> -->
+        <div class="ico_station">
+         <img src="../img/comm/ico_ad.gif" alt="">
+        </div>
+        <!-- </div> --> 
+        <div class="ad_zone"> 
+         <iframe width="280" height="285" src="http://ad.adinc.kr/cgi-bin/PelicanC.dll?impr?pageid=00M3&amp;out=iframe" allowtransparency="true" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe> 
+        </div> 
+       </div> 
+       <!--오늘의제보--> 
+       <div class="sub_right_box YTN_CSA_jebo2d"> 
+        <div class="tit_area"> 
+         <div class="title">
+          <img src="../img/news/tit_today_jebo.gif" alt="오늘의제보">
+         </div> 
+         <div class="more">
+          <a href="http://mj.ytn.co.kr/mj/mj_main.html"><img src="../img/news/bt_more.gif" alt="더보기"></a>
+         </div>
+         <a href="http://mj.ytn.co.kr/mj/mj_main.html"> </a>
+        </div>
+        <a href="http://mj.ytn.co.kr/mj/mj_main.html"> </a>
+        <dl class="sub_right_list">
+         <a href="http://mj.ytn.co.kr/mj/mj_main.html"> 
+          <dt>
+           <noscript>
+            <img src="http://image.ytn.co.kr/yreport/2018/09/105995_117592_480.jpg" width="298" height="168" alt="[신기한자연] 제주시 상공에 제비떼 수십...">
+           </noscript>
+           <a href="http://mj.ytn.co.kr/mj/mj_view.php?mode=theme&amp;key=105995" target="_top"><img data-src="http://image.ytn.co.kr/yreport/2018/09/105995_117592_480.jpg" width="298" height="168" alt="[신기한자연] 제주시 상공에 제비떼 수십..."></a>
+          </dt></a> 
+         <dd>
+          <a href="http://mj.ytn.co.kr/mj/mj_view.php?mode=theme&amp;key=105995" target="_top">[신기한자연] 제주시 상공에 제비떼 수십...</a>
+         </dd> 
+        </dl> 
+       </div> 
+       <!--//오늘의제보-->
+       <div class="sub_adbox2"> 
+        <div class="ico_station"> 
+         <img src="../img/comm/ico_ad.gif">
+        </div> 
+        <div class="ad_zone"> 
+         <iframe src="http://adv.imadrep.co.kr/2766_01.html" width="300" height="192" frameborder="0" scrolling="no"></iframe> 
+         <!-- 애드인 광고--> 
+         <br>
+         <br> 
+         <iframe width="300" height="200" src="http://ad.adinc.kr/cgi-bin/PelicanC.dll?impr?pageid=02SD&amp;out=iframe" allowtransparency="true" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe> 
+         <!-- 애드인 광고--> 
+        </div> 
+       </div> 
+       <!-- 오늘의연예 --> 
+       <div class="sub_right_box YTN_CSA_entertain"> 
+        <div class="tit_area"> 
+         <div class="title">
+          <img src="../img/news/tit_today_enter.gif" alt="오늘의연예">
+         </div> 
+        </div> 
+        <dl class="sub_right_list"> 
+         <dt>
+          <noscript>
+           <img src="http://image.ytn.co.kr/general/jpg/2018/0903/201809031920095209_h.jpg" width="298" height="168" alt="방탄소년단 또 빌보드 1위…왜 '방탄 현상'인가">
+          </noscript>
+          <a href="http://www.ytn.co.kr/_ln/0106_201809031920095209_002" target="_top"><img data-src="http://image.ytn.co.kr/general/jpg/2018/0903/201809031920095209_h.jpg" width="298" height="168" alt="방탄소년단 또 빌보드 1위…왜 '방탄 현상'인가"></a>
+         </dt> 
+         <dd>
+          <a href="http://www.ytn.co.kr/_ln/0106_201809031920095209_002" target="_top">방탄소년단 또 빌보드 1위…왜 '방탄 현상'인가</a>
+         </dd> 
+        </dl> 
+       </div> 
+       <!--// 오늘의연예 --> 
+       <div class="adright_box"> 
+        <iframe name="AdRightBanner2" frameborder="0" width="300" height="250" scrolling="no" marginheight="0" marginwidth="0"></iframe> 
+        <script type="text/javascript">
+$(function(){
+	if(typeof(_u)=="undefined") var _u = "loc="+escape(document.URL)+"&ref="+escape(document.referrer);
+	$(".adright_box iframe[name='AdRightBanner2']").attr("src", "/inc_banner/AdServerChange.php?n=6&"+_u);
+});
+</script> 
+       </div>
+       <!-- 오늘의생활 --> 
+       <div class="sub_right_box YTN_CSA_D3"> 
+        <div class="tit_area"> 
+         <div class="title">
+          <img src="../img/news/tit_today_culture.gif" alt="오늘의생활">
+         </div> 
+        </div> 
+        <dl class="sub_right_list"> 
+         <dt>
+          <noscript>
+           <img src="http://image.ytn.co.kr/general/jpg/2018/0904/201809042201236436_h.jpg" width="298" height="168" alt="'시금치가 사라졌다'…추석 앞두고 농산물 가격 급등">
+          </noscript>
+          <a href="http://www.ytn.co.kr/_ln/0102_201809042201236436_002" target="_top"><img data-src="http://image.ytn.co.kr/general/jpg/2018/0904/201809042201236436_h.jpg" width="298" height="168" alt="'시금치가 사라졌다'…추석 앞두고 농산물 가격 급등"></a>
+         </dt> 
+         <dd>
+          <a href="http://www.ytn.co.kr/_ln/0102_201809042201236436_002" target="_top">'시금치가 사라졌다'…추석 앞두고 농산물 가격 급등</a>
+         </dd> 
+        </dl> 
+       </div> 
+       <!--// 오늘의생활 --> 
+       <div style="width:300px;height:230px;" id="piclick_300x230"> 
+        <script>var piclick = { api_key:'fa4aa687313ea975536478c99f7442a0', skin:'tie2', size:'300x230', vp:'mside', pbu:'', ad_id:'piclick_300x230' };</script> 
+        <script type="text/javascript" src="http://apis.piclick.me/v2/publish/banner/iframe.min.js"></script> 
+       </div>​​​
+       <div style="height:80px;margin:20px 0 20px 0;" id="fortuneBanner"> 
+        <a href="http://www.ytn.co.kr/health_life/fortune_list.html">
+         <noscript>
+          <img width="300" height="80" src="../img/comm/bnr_todayfortune.jpg" alt="오늘 나의 운세는">
+         </noscript><img width="300" height="80" data-src="../img/comm/bnr_todayfortune.jpg" alt="오늘 나의 운세는"></a> 
+       </div> 
+       <div class="sub_adbox2"> 
+        <div class="ico_station">
+         <img src="../img/comm/ico_ad.gif">
+        </div> 
+        <div class="ad_zone"> 
+         <iframe width="300" height="273" border="0" frameborder="0" scrolling="no" src="//adin.ad4980.kr/s/2015/04/22/z2120456363.html"></iframe> 
+        </div> 
+       </div>
+       <!--오늘의스포츠--> 
+       <div class="sub_right_box YTN_CSA_sport"> 
+        <div class="tit_area"> 
+         <div class="title">
+          <img src="../img/news/tit_today_sport.gif" alt="오늘의스포츠">
+         </div> 
+        </div> 
+        <dl class="sub_right_list"> 
+         <dt>
+          <noscript>
+           <img src="http://image.ytn.co.kr/general/jpg/2018/0905/201809050235012144_h.jpg" width="298" height="168" alt="'영원한 챔피언' 이왕표, 재발 암 투병 중 별세…향년 64세">
+          </noscript>
+          <a href="http://www.ytn.co.kr/_ln/0107_201809050235012144_002" target="_top"><img data-src="http://image.ytn.co.kr/general/jpg/2018/0905/201809050235012144_h.jpg" width="298" height="168" alt="'영원한 챔피언' 이왕표, 재발 암 투병 중 별세…향년 64세"></a>
+         </dt> 
+         <dd>
+          <a href="http://www.ytn.co.kr/_ln/0107_201809050235012144_002" target="_top">'영원한 챔피언' 이왕표, 재발 암 투병 중 별세…향년 64세</a>
+         </dd> 
+        </dl> 
+       </div> 
+       <!--//오늘의스포츠-->
+       <div class="adright_box"> 
+        <script type="text/javascript" src="//static.criteo.net/js/ld/publishertag.js" async="true"></script> 
+        <div id="crt-1208406" style="width:300px;height:250px;"></div> 
+        <script type="text/javascript">
+var Criteo = Criteo || {};
+Criteo.events = Criteo.events || [];
+Criteo.events.push(function() {
+    Criteo.DisplayAd({
+        "zoneid": 1208406,
+        "containerid": "crt-1208406"
+    });
+});
+</script> 
+       </div>
+       <!--패션&뷰티--> 
+       <div class="sub_right_box YTN_CSA_fashion_view"> 
+        <div class="tit_area"> 
+         <div class="title">
+          <img src="../img/news/side_tit06.gif" alt="패션&amp;뷰티">
+         </div> 
+         <div class="outlink">
+          <img src="../img/news/ico_ygkplus.gif" alt="YGK플러스">
+         </div> 
+        </div> 
+        <dl class="sub_right_list"> 
+         <dt>
+          <noscript>
+           <img src="http://image.ytn.co.kr/general/jpg/2018/0905/201809051325102683_h.jpg" width="298" height="168" alt="‘연애의 참견 시즌2’ 주우재, ‘훈훈 그 자체’ 인증샷 공개">
+          </noscript>
+          <a href="http://www.ytn.co.kr/_sn/0122_201809051325102683_009"><img data-src="http://image.ytn.co.kr/general/jpg/2018/0905/201809051325102683_h.jpg" width="298" height="168" alt="‘연애의 참견 시즌2’ 주우재, ‘훈훈 그 자체’ 인증샷 공개"></a>
+         </dt> 
+         <dd>
+          <a href="http://www.ytn.co.kr/_sn/0122_201809051325102683_009">‘연애의 참견 시즌2’ 주우재, ‘훈훈 그 자체’ 인증샷 공개</a>
+         </dd> 
+        </dl> 
+       </div> 
+       <!--//패션&뷰티--> 
+      </div>
+     </div> 
+     <!--// zone2 (width:300) --> 
+    </div> 
+    <!-- //czone (width:980)--> 
+    <!-- footer--> 
+    <script type="text/javascript" src="/_js/ytn2.min.js?v=20170407"></script> 
+    <!-- 윙배너 넣음 --> 
+    <!-- 우측 윙배너 --> 
+    <div id="leftWingBanner" style="position:absolute;top:200px;left:-132px;"> 
+     <iframe allowtransparency="true" marginwidth="0" marginheight="0" hspace="0" vspace="0" scrolling="no" frameborder="0" width="120" height="600" title="우측윙배너"></iframe> 
+     <!-- <iframe width="122" height="254" border="0" frameborder="0" scrolling="no" title="우측하단윙배너" style="margin-top: 10px;"></iframe> --> 
+    </div> 
+    <script type="text/javascript">
+    (function(){
+	  $("#leftWingBanner iframe:eq(0)").attr("src", "http://adex.ednplus.com/xc/h/Fzf2tk5A");
+    })();
+    </script> 
+    <!-- 우측 윙배너 --> 
+    <!-- 좌측 윙배너 상단 120*220 --> 
+    <!-- //좌측 윙배너 상단 120*220 --> 
+    <!-- 좌측 상단 120*180 --> 
+    <div style="position:absolute;top:0px;right:-125px;"> 
+     <script language="javascript" src="http://nvapi.feeldmc.com/ad/p/in/v1_0/imp?slotid=stw_YTNpluscokr_17"></script> 
+    </div> 
+    <!-- //좌측 상단 120*180 --> 
+    <!-- 좌측 윙배너 --> 
+    <div id="rightWingBanner" style="position:absolute;top:200px;"> 
+     <iframe allowtransparency="true" marginwidth="0" marginheight="0" hspace="0" vspace="0" scrolling="no" frameborder="0" width="120" height="600" title="좌측윙배너"></iframe> 
+     <!-- <iframe width="122" height="254" frameborder="0" scrolling="no" title="좌측하단윙배너" style="margin-top: 10px;"></iframe> --> 
+    </div> 
+    <script type="text/javascript">
+(function(){
+$("#rightWingBanner iframe:eq(0)").attr("src", "http://adex.ednplus.com/xc/h/FzmfbWPN");
+})();
+</script> 
+    <!-- //좌측 윙배너 --> 
+    <!-- //윙배너 넣음 --> 
+    <!-- TI광고 기사면만 : 기사면인지 확인하기 위해 dable:url 메타태그 사용 --> 
+    <script type="text/javascript">
+try { if($("#CmAdContent").length && $('meta[property="dable:url"]').attr('content').match(/[0-9]{18}/)){ document.write('<div style="position:absolute;top:383px;margin-left:680px;z-index:0; !important"><scri'+'pt type="text/javascr'+'ipt" src=\'/inc_banner/Ad_TI.js?v=20180406\'></scr'+'ipt></div>'); }    } catch (err) { }
+</script> 
+    <!--// TI광고 기사면만 --> 
+    <!-- // wrap --> 
+   </div>
+   <!-- //EBD YTN_main_2017, wrap --> 
+   <!-- 문단 중 이미지 광고 --> 
+   <script type="text/javascript">
+jQuery(document).ready(function() {
+    function n() {
+        var n;
+        if ($("#CmAdContent span").eq(1) || $("#CmAdContent span").eq(2)) {
+            var e = $("#CmAdContent span").eq(0).text().length
+              , t = $("#CmAdContent span").eq(1).text().length
+              , o = 0;
+            if ($("#CmAdContent span").eq(2) && (o = $("#CmAdContent span").eq(2).text().length),
+            183 > e && 183 > t && 183 > o)
+                return;
+            n = e > t && e > o ? $("#CmAdContent span").eq(0).find("br") : o > t ? $("#CmAdContent span").eq(2).find("br") : $("#CmAdContent span").eq(1).find("br")
+        } else {
+            if ($("#CmAdContent span").eq(0).text().length < 183) return;
+            n = $("#CmAdContent span").eq(0).find("br")
+        }
+        var s = n.length;
+        n.each(function(n) {
+			if(n == Math.abs(  Math.floor(s / 6) - 1 ) ){
+				$(this).after("<div id='hns_mask' class='hns_mask_div' style='width:260px;height:250px; float:right; text-align:right; z-index:1;'><iframe width='250' height='250' src='http://adex.ednplus.com/xc/h/7bUwK8fc' allowTransparency = 'true' marginwidth='0' marginheight='0' hspace='0' vspace='0' frameborder='0' scrolling='no' ></iframe></div>");
+			}
+        })
+    }
+    $("#CmAdContent").length && n();
+});
+</script> 
+   <!--// 문단 중 이미지 광고 --> 
+   <!-- footer_area  --> 
+   <div class="footer YTN_CSA_footer2"> 
+    <div class="information"> 
+     <ul class="info_text"> 
+      <li>회사소개 
+       <ul class="desc_info"> 
+        <li><a href="http://infor.ytn.co.kr/">YTN</a></li> 
+        <li><a href="http://www.ytn.co.kr/service/sabo.php">YTN사보</a></li> 
+        <li><a href="http://radio.ytn.co.kr/company/ytnradio.php">YTN RADIO</a></li> 
+        <li><a href="http://dmb.ytn.co.kr/company/intro.php">YTN DMB</a></li> 
+        <li><a href="http://www.ytnplus.co.kr/">YTN PLUS</a></li> 
+       </ul> </li> 
+      <li>광고/비즈니스 
+       <ul class="desc_info"> 
+        <li><a href="http://www.ytn.co.kr/business/tv_ad01.php">TV광고</a></li> 
+        <li><a href="http://www.ytn.co.kr/business/online_ad.php">인터넷 모바일 광고</a></li> 
+        <li><a href="http://www.ytn.co.kr/business/program_supply.php">방송 프로그램 공급</a></li> 
+        <li><a href="http://www.ytn.co.kr/business/culture_biz.php">문화 사업 제휴</a></li> 
+        <li><a href="http://www.ytn.co.kr/business/internetall01.php">인터넷 사업 제휴</a></li> 
+        <li><a href="http://www.ytn.co.kr/hiring_hall/info.html">YTN홀 대관 서비스</a></li> 
+       </ul> </li> 
+      <li>시청자센터 
+       <ul class="desc_info"> 
+        <!-- <li><a href="http://www.ytn.co.kr/community/ceo_candidate_question.php" style="display:inline_block; letter-spacing:-1px" target="_blank">사장공모 시청자질의</a></li> --> 
+        <li><a href="http://www.ytn.co.kr/community/opinion.php">시청자 의견</a></li> 
+        <li><a href="http://mj.ytn.co.kr/">시청자 제보</a></li> 
+        <li><a href="http://www.ytn.co.kr/program/program_list_0429.html">시청자의 눈</a></li> 
+        <!-- <li><a href="http://www.ytn.co.kr/business/program_sell.php">시청자 프로그램판매</a></li> --> 
+        <li><a href="http://www.ytn.co.kr/community/audience.php">시청자 위원회</a></li> 
+        <li><a href="http://www.ytn.co.kr/community/complain.php">고충처리인</a></li> 
+        <li><a href="http://www.ytn.co.kr/cleanytn/clean_info.php">사이버 감사실</a></li> 
+       </ul> </li> 
+      <li>인터넷 이용안내 
+       <ul class="desc_info"> 
+        <li><a href="http://www.ytn.co.kr/service/sitemap.php">사이트맵</a></li> 
+        <li><a href="http://www.ytn.co.kr/community/newsletter.php">뉴스레터</a></li> 
+        <li><a href="http://www.ytn.co.kr/service/help_01.php">인터넷이용 도움말</a></li> 
+        <li><a href="http://www.ytn.co.kr/service/live_help.php">생방송 이용안내</a></li> 
+       </ul> </li> 
+      <li>모바일 이용안내 
+       <ul class="desc_info"> 
+        <li><a href="http://www.ytn.co.kr/service/ytn_app_mobile.php">모바일 App</a></li> 
+        <li><a href="http://www.ytn.co.kr/service/ytn_app_tablet.php">태블릿 App</a></li> 
+        <li><a href="http://www.ytn.co.kr/service/ytn_web_mobile.php">모바일 Web</a></li> 
+        <li><a href="http://www.ytn.co.kr/sms/ytnnewssms.php">긴급뉴스 SMS</a></li> 
+       </ul> </li> 
+      <li>콘텐츠판매 
+       <ul class="desc_info"> 
+        <li><a href="http://www.ytn.co.kr/business/program_sell.php">영상자료</a></li> 
+        <li><a href="http://www.ytn.co.kr/business/sound_sell.php">음원</a></li> 
+        <li><a href="http://www.ytn.co.kr/business/digitalcont.php">뉴스공급</a></li> 
+       </ul> </li> 
+      <li>알립니다 
+       <ul class="desc_info"> 
+        <li><a href="http://www.ytn.co.kr/community/notice.php">공지사항</a></li> 
+        <li><a href="http://www.ytn.co.kr/community/recruit.php">채용공고</a></li> 
+        <li><a href="http://tour.ytn.co.kr/#infor" target="_blank">견학신청</a></li> 
+        <li><a href="https://harassment.ytn.co.kr/" target="_blank">성폭력 신고센터</a></li> 
+        <li><a href="http://www.ytn.co.kr/award/index.html" target="_blank">수상작품</a></li> 
+       </ul> </li> 
+     </ul> 
+     <span class="clearfix"></span> 
+     <ul class="second_line"> 
+      <li><a href="http://www.ytn.co.kr/service/contract.php">이용약관</a><span class="b_bar">|</span></li> 
+      <li><a href="http://www.ytn.co.kr/service/privacy.php">개인정보처리방침</a><span class="b_bar">|</span></li> 
+      <li><a href="http://www.ytn.co.kr/service/youth_Protection_policy.php">청소년보호정책</a><span class="b_bar">|</span></li> 
+      <li><a href="http://www.ytn.co.kr/service/policy.php">기사배열 기본방침</a><span class="b_bar">|</span></li> 
+      <li style="margin-right:0px !important"><a href="http://www.ytn.co.kr/service/aboutus.php">위치/연락처</a></li> 
+     </ul> 
+    </div>
+    <!-- //information --> 
+    <span class="clearfix"></span> 
+    <div class="copyright"> 
+     <div class="copyright_box"> 
+      <ul class="company"> 
+       <li><b>㈜와이티엔</b>&nbsp;&nbsp;서울특별시 마포구 상암산로 76(상암동) <span class="bar">|</span> 대표자: 최남수 <span class="bar">|</span> 대표전화: 02-398-8000 <span class="bar">|</span> 팩스: 02-398-8129 <span class="bar">|</span> 사업자등록번호: 102-81-32883</li> 
+       <li><b>㈜와이티엔플러스</b>&nbsp;&amp;nbsp서울특별시 마포구 상암산로 76(상암동) <span class="bar">|</span> 상호:YTN <span class="bar">|</span> 대표전화: 02-2160-7400 <span class="bar">|</span> 등록번호:서울 자000465 <span class="bar">|</span> 등록일자: 2010.05.11 <span class="bar">|</span> 발행일자: 1999.06.01 <br> <span style="display:inline-block; padding-left:104px">대표자: 호준석</span> <span class="bar">|</span> 기사배열 책임자: 홍상희 <span class="bar">|</span> 청소년보호책임자: 윤미영 
+        <!-- <span class="bar">|</span> <a href="/service/policy.php" style="color:#888;font-weight:bold;">[기사배열 기본방침]</a> --></li> 
+      </ul> 
+      <p class="copyright_bottom">Copyright (c) YTN &amp; YTN PLUS All rights reserved. <br> 모든 컨텐츠(기사)는 저작권법의 보호를 받은바, 무단 전재·복사·배포를 금합니다.</p> 
+     </div>
+     <!-- //copyright_box --> 
+    </div>
+    <!-- //copyright --> 
+   </div>
+   <!-- //footer --> 
+   <script type="text/javascript" src="/_js/agentChk.js"></script> 
+   <script>
+	if(agentChk()=="MOBILE"){
+		document.write("<div style='width:980px;margin:0 auto;text-align:center;padding:20px 0;'><a href='"+makeMobileUrl()+"'><img src='/img/comm/bt_mobilever.gif' alt='모바일 버전 보기' style='display:inline-block'></a></div>");
+	}
+
+if(window.console!=undefined){setTimeout(console.log.bind(console,"%cYTN & YTN PLUS","font:8em Arial;color:#00aeef;font-weight:bold"),0);setTimeout(console.log.bind(console,"%c  모든 컨텐츠(기사)는 저작권법의 보호를 받은바, 무단 전재·복사·배포를 금합니다.","font:2em sans-serif;color:#333;"),0);}
+</script> 
+   <script type="text/javascript">
+//<![CDATA[
+if(IE && document.getElementById('startPage'))
+{
+	document.getElementById('startPage').onclick = function(){
+		try {
+			var sp = document.getElementById('startPage');
+			sp.style.behavior = 'url(#default#homepage)';
+			sp.setHomePage('/');
+			try {
+				ct.call(sp)}
+			catch(e) {
+			}
+		}
+		catch (e) {
+		}
+	}
+}
+
+// 풋터 회사소개 레이어
+var fo = "a";
+function footerView(n)
+{
+	if(fo) document.getElementById("map3_"+fo).style.display = "none";
+	document.getElementById("map3_"+n).style.display = "block";
+	fo = n;
+}
+
+function footerHidden()
+{
+	document.getElementById("map3_"+fo).style.display = "none";
+}
+
+$(document).ready(function(){
+	sec = 1;
+	boxStartLeftWingPosition = 200;
+	boxStartRightWingPosition = 200;
+
+	// 배너 기본위치
+	$("#leftWingBanner").stop().animate({"top":boxStartLeftWingPosition+"px"},sec);
+	$("#rightWingBanner").stop().animate({"top":boxStartRightWingPosition+"px"},sec);
+
+	$(window).scroll(function() // 스크롤바가 움직일 때 마다 콜백 한다
+	{
+		leftWingPosition = $(window).scrollTop() - boxStartLeftWingPosition;
+		rightWingPosition = $(window).scrollTop() - boxStartRightWingPosition;
+
+		// TOP스크롤 높이에 따른 배너위치 조정
+		if($(window).scrollTop()<168)
+		{
+			$("#leftWingBanner").stop().animate({"top":boxStartLeftWingPosition+"px"},sec);
+			$("#rightWingBanner").stop().animate({"top":boxStartRightWingPosition+"px"},sec);
+		}
+		else
+		{
+			$("#leftWingBanner").stop().animate({"top":leftWingPosition+"px"},sec);
+			$("#rightWingBanner").stop().animate({"top":rightWingPosition+"px"},sec);
+		}
+	});
+});
+//]]>
+</script>   
+  </div>
+ </body>
+</html>
